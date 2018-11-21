@@ -101,7 +101,7 @@ public class ShowList extends Activity {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 // This method is called once with the initial value and again
-                // whenever data at this location is updated.
+                // whenever data at this location is updated
                 int count = 0;
                 for(DataSnapshot postSnapshot : dataSnapshot.getChildren()){
                     Customer customer1 = postSnapshot.getValue(Customer.class);
