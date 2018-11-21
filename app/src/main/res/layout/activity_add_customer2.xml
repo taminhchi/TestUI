@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCustomer">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorTitle"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_back2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="5dp"
+            android:background="?attr/actionModeCloseDrawable"
+            android:backgroundTint="?attr/actionModeCloseDrawable" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:gravity="center"
+            android:text="Bùi Thanh Minh"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="10pt"
+            android:textStyle="bold"
+
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button_save"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="7dp"
+                android:background="@android:drawable/ic_menu_edit"
+                android:backgroundTint="?attr/actionModeCloseDrawable" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="50pt"
+        android:layout_height="50pt"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shape"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:gravity="center"
+                android:text="+"
+                android:textColor="#a5a5a5"
+                android:textSize="40sp"
+
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/textlines"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@android:drawable/ic_menu_myplaces" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Bùi Thanh Minh"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="10pt"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="-2dp"
+        android:background="@drawable/textlines"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@android:drawable/ic_menu_call" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="0964 683 162"
+            android:textAlignment="viewStart"
+            android:textColor="@color/colorTitle"
+            android:textSize="10pt"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/textlines"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="-2dp"
+        >
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@android:drawable/ic_menu_info_details" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Khối dự án Hộ cá thể"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="10pt"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/textlines"
+        android:id="@+id/customerInfo"
+        >
+
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:drawable/ic_menu_call" />
+
+        <ImageView
+            android:id="@+id/imageView1ID"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="70dp"
+            android:orientation="vertical"
+
+            >
+
+            <TextView
+                android:id="@+id/nameTextViewID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Bùi Thanh Minh"
+                android:textAlignment="viewStart"
+                android:textColor="@android:color/black"
+
+                android:textSize="10pt"
+                android:textStyle="bold"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/infoTextViewID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Khối dự án Hộ cá thể"
+                android:textAlignment="viewStart"
+                tools:ignore="RtlCompat" />
+            <!--android:textColor="@color/black_overlay"-->
+
+            android:textSize="8pt"
+
+            tools:ignore="RtlCompat" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

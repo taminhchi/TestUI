@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160036441039",
+    "firebase_url": "https://customermanager-2574c.firebaseio.com",
+    "project_id": "customermanager-2574c",
+    "storage_bucket": "customermanager-2574c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160036441039:android:20bec77354236d0d",
+        "android_client_info": {
+          "package_name": "com.example.microsoftwindows.testui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160036441039-js2m8acnmu3umv1q0f1btk0qrjr1fbqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbZHNy23BW4SObxUpWkfz23qnkTjDufA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

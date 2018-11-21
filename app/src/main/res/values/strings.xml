@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestUI</string>
+    <string name="add_contact">Thêm danh bạ</string>
+    <string name="user_name">Họ và tên</string>
+    <string name="phone_number">Điện thoại liên hệ</string>
+    <string name="position">Bộ phận</string>
+    <string name="save">Cất</string>
+    <string name="misa_jsc">MISA JSC</string>
+    <string name="plus">+</string>
+    <string name="todo">TODO</string>
+</resources>
