@@ -69,9 +69,9 @@ public class ShowList extends Activity {
                     String customerPhoneNumber = extras.getString("customerPhoneNumber");
                     String customerPosition = extras.getString("customerPosition");
 //                    add customer info to list
-                    nameArrayList.add(customerName);
-                    infoArrayList.add(customerPosition);
-                    imageArrayList.add(R.drawable.gender_male2_512);
+//                    nameArrayList.add(customerName);
+//                    infoArrayList.add(customerPosition);
+//                    imageArrayList.add(R.drawable.gender_male2_512);
                     Context context = getApplicationContext();
                     CharSequence text = customerName + " , " + customerPhoneNumber + " , " + customerPosition;
                     int duration = Toast.LENGTH_SHORT;

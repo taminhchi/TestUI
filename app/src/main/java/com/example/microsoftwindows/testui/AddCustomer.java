@@ -53,13 +53,7 @@ public class AddCustomer extends AppCompatActivity {
         startActivity(intent);
     }
     public void addCustomer(View view){
-//        Add info to database
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference("tmchi").push();
 
-
-
-        myRef.setValue("Ta Minh Chí");
         // Read from the database
 //        myRef.addValueEventListener(new ValueEventListener() {
 //            @Override
@@ -91,6 +85,11 @@ public class AddCustomer extends AppCompatActivity {
         intent.putExtra("customerName", strCustomerName);
         intent.putExtra("customerPhoneNumber", strCustomerPhonenumber);
         intent.putExtra("customerPosition", strCustomerPosition);
+//        Add info to database
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference myRef = database.getReference("Customers").push();
+        Customer customer = new Customer(strCustomerName, strCustomerPhonenumber, strCustomerPosition);
+        myRef.setValue(customer);
 
         startActivity(intent);
     }
