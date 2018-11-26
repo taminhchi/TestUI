@@ -1,0 +1,24 @@
+<grammars>
+      <grammar id="1" en_title="Articles" local_title="Mạo từ"/>
+      <grammar id="2" en_title="Adjectives" local_title="Tính từ"/>
+      <grammar id="3" en_title="Comparisons" local_title="So sánh"/>
+      <grammar id="4" en_title="Adverbs" local_title="Trạng từ - phó từ"/>
+      <grammar id="5" en_title="Prepositions" local_title="Giới từ"/>
+      <grammar id="6" en_title="Participles" local_title="Phân động từ - động tính từ"/>
+      <grammar id="7" en_title="NonVerbs" local_title="Động từ bất quy tắc"/>
+      <grammar id="8" en_title="Astractions" local_title="Tỉnh Lược"/>
+      <grammar id="9" en_title="Conjunctions" local_title="Liên Từ"/>
+      <grammar id="10" en_title="Interjections" local_title="Thán Từ"/>
+      <grammar id="11" en_title="Clause" local_title="Mệnh Đề"/>
+      <grammar id="12" en_title="Tenses in English" local_title="Thời - Thì"/>
+      <grammar id="13" en_title="Conditionals" local_title="Câu Điều Kiện"/>
+      <grammar id="14" en_title="Pronouns" local_title="Đại danh từ"/>
+      <grammar id="15" en_title="Verbs" local_title="Động từ"/>
+      <grammar id="16" en_title="Voices" local_title="Cách"/>
+      <grammar id="17" en_title="Sentences" local_title="Câu"/>
+      <grammar id="18" en_title="Passive Voice" local_title="Câu bị Động"/>
+      <grammar id="19" en_title="Dicrect and Indirect Speeches" local_title="Câu trực tiếp - gián tiếp"/>
+      <grammar id="20" en_title="Phraes" local_title="Cụm từ"/>
+      <grammar id="21" en_title="Gender" local_title="Giống của từ"/>
+	  <grammar id="22" en_title="Inversions" local_title="Đảo ngữ"/>
+</grammars>

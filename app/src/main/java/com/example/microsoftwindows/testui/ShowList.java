@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
@@ -28,28 +29,22 @@ import static android.provider.AlarmClock.EXTRA_MESSAGE;
 public class ShowList extends Activity {
     ListView customerList;
     ArrayList<String> listItems=new ArrayList<String>();
-
+    ArrayList<Customer> customersObjectList = new ArrayList<Customer>();
     ArrayAdapter<String> adapter;
     Button btnAddCustomer;
+    ArrayList<String> idArrayList = new ArrayList<String>();
     ArrayList<String> nameArrayList = new ArrayList<String>();
     ArrayList<String> infoArrayList = new ArrayList<String>();
     ArrayList<Integer> imageArrayList = new ArrayList<Integer>();
+    String [] idArray;
     String[] nameArray;
     String[] infoArray;
     Integer[] imageArray;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-//        nameArrayList.add("Bùi Thanh Minh");
-//        nameArrayList.add("Tạ Minh Ngọc");
-//        infoArrayList.add("Khối dự án Hộ cá thể ");
-//        infoArrayList.add("Khối dự án Hộ cá thể ");
-//        imageArrayList.add(R.drawable.gender_male2_512);
-//        imageArrayList.add(R.drawable.gender_male2_512);
 
-//        DatabaseReference myRef = database.getReference("Customers").push();
-//        Customer customer = new Customer("Tạ Minh Chí", "012345678", "Ban Công Nghệ");
-//
-//        myRef.setValue(customer);
         // Read from the database
         super.onCreate(savedInstanceState);
         try {
@@ -72,25 +67,31 @@ public class ShowList extends Activity {
 //                    nameArrayList.add(customerName);
 //                    infoArrayList.add(customerPosition);
 //                    imageArrayList.add(R.drawable.gender_male2_512);
-                    Context context = getApplicationContext();
-                    CharSequence text = customerName + " , " + customerPhoneNumber + " , " + customerPosition;
-                    int duration = Toast.LENGTH_SHORT;
-                    Toast toast = Toast.makeText(context, text, duration);
-                    toast.show();
+                showToast(customerName + " , " + customerPhoneNumber + " , " + customerPosition);
                 }
             }
         }catch (Exception ex) {
             Log.e("TestUI",ex.toString());
         }
         setContentView(R.layout.activity_show_list);
-//        set List adapter
-//        try{
-//            if(nameArray.length > 0 ){
-//                CustomerListAdapter customerListAdapter = new CustomerListAdapter(ShowList.this, nameArray,infoArray,imageArray);
-//                customerList.setAdapter(customerListAdapter);}}
-//        catch (NullPointerException e){
-//            Log.e(TAG, "CustomerList is null", e);
-//        }
+        // set event for listview
+        customerList = (ListView) findViewById(R.id.customer_list);
+
+        //        set even for button add customer
+        btnAddCustomer = (Button) findViewById(R.id.button_add_customer);
+        btnAddCustomer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try {
+                    addCustomer(v);
+
+//                    listItems.add("New Item");
+//                    adapter.notifyDataSetChanged();
+                }catch (Exception ex) {
+                    Util.handleException(ex);
+                }
+            }
+        });
 
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("Customers");
@@ -108,16 +109,12 @@ public class ShowList extends Activity {
                     nameArrayList.add(customer1.username);
                     infoArrayList.add(customer1.position);
                     imageArrayList.add(R.drawable.gender_male2_512);
+                    customersObjectList.add(customer1);
+                    idArrayList.add(postSnapshot.getKey());
                     count++;
                 }
 //                Log.d(TAG, "-tmchi-Value is: " + value);
-                Context context = getApplicationContext();
-                CharSequence text ="Getted: " + Integer.toString(count) + " customer";
-                int duration = Toast.LENGTH_LONG;
-
-                Toast toast = Toast.makeText(context, text, duration);
-                toast.show();
-
+                showToast("Getted: " + Integer.toString(count) + " customer");
 
 
                 nameArray = nameArrayList.toArray(new String[0]);
@@ -125,7 +122,14 @@ public class ShowList extends Activity {
                 imageArray = imageArrayList.toArray(new Integer[0]);
                 CustomerListAdapter customerListAdapter = new CustomerListAdapter(ShowList.this, nameArray,infoArray,imageArray);
                 customerList.setAdapter(customerListAdapter);
-
+                customerList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                    @Override
+                    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                        showToast("clicked");
+//                int itemPosition = parent.getSelectedItemPosition();
+                        showToast(Integer.toString(position));
+                    }
+                });
             }
 
             @Override
@@ -135,24 +139,12 @@ public class ShowList extends Activity {
             }
         });
 
-
-
-
-        customerList = (ListView) findViewById(R.id.customer_list);
-        btnAddCustomer = (Button) findViewById(R.id.button_add_customer);
-        btnAddCustomer.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                try {
-                    addCustomer(v);
-
-//                    listItems.add("New Item");
-//                    adapter.notifyDataSetChanged();
-                }catch (Exception ex) {
-                Util.handleException(ex);
-                }
-            }
-        });
+//        customerList.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                showToast("clicked");
+//            }
+//        });
 
 //        customerList = (ListView) findViewById(R.id.list);
 //        customerList.setAdapter(customerListAdapter);
@@ -178,5 +170,11 @@ public class ShowList extends Activity {
             Intent intent = new Intent(this, AddCustomer.class);
             startActivity(intent);
     }
-
+    public void showToast(String string){
+        Context context = getApplicationContext();
+        CharSequence text = string;
+        int duration = Toast.LENGTH_LONG;
+        Toast toast = Toast.makeText(context, text, duration);
+        toast.show();
+    }
 }

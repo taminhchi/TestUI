@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <lesson id="1" en_text="Basic English Lesson" local_text="Bài học video cơ bản">
+        <item en_text="Unit 1- What are you doing" local_text="Bài 1- Bạn đang làm gì" mp3_slow="http://www.youtube.com/watch?v=lsBbIajk6Us"  mp3_normal="" />
+		<item en_text="Unit 2- What did you do last night" local_text="Bài 2- Những gì bạn đã làm đêm qua" mp3_slow="http://www.youtube.com/watch?v=GfgnySwhW1I"  mp3_normal="" />
+		<item en_text="Unit 3- What did you see" local_text="Bài 3- Bạn đã thấy gì" mp3_slow="http://www.youtube.com/watch?v=yBm_gG2mhg4"  mp3_normal="" />
+		<item en_text="Unit 4- What did you do today John" local_text="Bài 4- Bạn đã làm gì hôm nay John" mp3_slow="http://www.youtube.com/watch?v=5u73ir3rIkI"  mp3_normal="" />
+		<item en_text="Unit 5- What are you going to do tomorrow" local_text="Bài 5 thì bạn sẽ làm gì vào ngày mai" mp3_slow="http://www.youtube.com/watch?v=FB8MxU2TtG4"  mp3_normal="" />
+		<item en_text="Unit 6- Do you like school" local_text="Bài 6- Bạn có thích học" mp3_slow="http://www.youtube.com/watch?v=yeCuBi6lGIo"  mp3_normal="" />
+		<item en_text="Unit 7- Hello" local_text="Bài 7- Xin chào" mp3_slow="http://www.youtube.com/watch?v=ANOHi0ZOHwI"  mp3_normal="" />
+		<item en_text="Unit 8- Can" local_text="Bài 8- Có thể" mp3_slow="http://www.youtube.com/watch?v=ZUlhMl8kOc8"  mp3_normal="" />
+		<item en_text="Unit 9- What sports can you play" local_text="Bài 9- Bạn có thể chơi các môn thể thao gì" mp3_slow="http://www.youtube.com/watch?v=uBnEcwYu9m0"  mp3_normal="" />
+		<item en_text="Unit 10- Use to" local_text="Bài 10- Sử dụng để" mp3_slow="http://www.youtube.com/watch?v=Hn54R113A3E"  mp3_normal="" />
+		<item en_text="Unit 11- Weather" local_text="Bài 11- Thời tiết" mp3_slow="http://www.youtube.com/watch?v=LTbEiIf9eos"  mp3_normal="" />
+		<item en_text="Unit 12- Want" local_text="Bài 12- Muốn có (wants to)" mp3_slow="http://www.youtube.com/watch?v=VBIOWxb3dp8"  mp3_normal="" />
+		<item en_text="Unit 13- Making a phone call" local_text="Bài 13- Thực hiện cuộc gọi điện thoại" mp3_slow="http://www.youtube.com/watch?v=Itn9w5NP8uw"  mp3_normal="" />
+		<item en_text="Unit 14- Visiting a friend" local_text="Bài 14- Thăm một người bạn" mp3_slow="http://www.youtube.com/watch?v=l7QuwVhkb_Y"  mp3_normal="" />
+		<item en_text="Unit 15- Greeting and introduction" local_text="Bài 15- Chào mừng và giới thiệu" mp3_slow="http://www.youtube.com/watch?v=n4ZzpT_6Jag"  mp3_normal="" />
+		<item en_text="Unit 16- What do you like to eat for breakfast" local_text="Bài 16- Bạn thích ăn gì cho bữa ăn sáng" mp3_slow="http://www.youtube.com/watch?v=WocoNmMBS3A"  mp3_normal="" />
+		<item en_text="Unit 17- Ordering food" local_text="Bài 17- Thực phẩm đặt hàng" mp3_slow="http://www.youtube.com/watch?v=daaRYYhlcJ0"  mp3_normal="" />
+		<item en_text="Unit 18- Check please" local_text="Bài 18- Làm ơn kiểm tra" mp3_slow="http://www.youtube.com/watch?v=3SwZI67QT2s"  mp3_normal="" />
+		<item en_text="Unit 19- Meeting a friend" local_text="Bài 19- Một người bạn" mp3_slow="http://www.youtube.com/watch?v=N253BVvOfu8"  mp3_normal="" />
+		<item en_text="Unit 20- How old is your car" local_text="Bài 20- Xe cũ của bạn" mp3_slow="http://www.youtube.com/watch?v=fYjkQGAg1go"  mp3_normal="" />
+		<item en_text="Unit 21- About the train" local_text="Bài 21- Bài học về tàu" mp3_slow="http://www.youtube.com/watch?v=QrKO0eJaNOU"  mp3_normal="" />
+		<item en_text="Unit 22- A pair of shoes" local_text="Bài 22- Một đôi giày" mp3_slow="http://www.youtube.com/watch?v=N3TvMp6QnjU"  mp3_normal="" />
+		<item en_text="Unit 23- Buying a phone" local_text="Bài 23- Mua điện thoại" mp3_slow="http://www.youtube.com/watch?v=OQO2IWuek0o"  mp3_normal="" />
+		<item en_text="Unit 24- Directions to the toilet" local_text="Bài 24- Hướng dẫn vào nhà vệ sinh" mp3_slow="http://www.youtube.com/watch?v=lrCJQjZkFZQ"  mp3_normal="" />
+		<item en_text="Unit 25- Make an appointment for later" local_text="Bài 25- Hẹn hò" mp3_slow="http://www.youtube.com/watch?v=SRBO6ZEqNhQ"  mp3_normal="" />
+		<item en_text="Unit 26- Choosing a movie" local_text="Bài 26- Chọn một bộ phim" mp3_slow="http://www.youtube.com/watch?v=_OQJPSqyj4o"  mp3_normal="" />
+		<item en_text="Unit 27- What a coincidence!" local_text="Bài 27- Thật là một sự trùng hợp!" mp3_slow="http://www.youtube.com/watch?v=YYjrqzySvvY"  mp3_normal="" />
+		<item en_text="Unit 28- Making a date" local_text="Bài 28- Làm một ngày" mp3_slow="http://www.youtube.com/watch?v=v0IhPtEwftg"  mp3_normal="" />
+		<item en_text="Unit 29- Going to the shop" local_text="Bài 29- Đi đến cửa hàng" mp3_slow="http://www.youtube.com/watch?v=cXzVS2pS19k"  mp3_normal="" />
+		<item en_text="Unit 30- Wanita" local_text="Bài 30- Wanita" mp3_slow="http://www.youtube.com/watch?v=HIn1UtgsjIY"  mp3_normal="" />
+		<item en_text="Unit 31- Passing a message" local_text="Bài 31- Đi qua một thông điệp" mp3_slow="http://www.youtube.com/watch?v=ACmUfOGaKoE"  mp3_normal="" />
+		<item en_text="Unit 32- Making a reservation" local_text="Bài 32- Đặt chỗ" mp3_slow="http://www.youtube.com/watch?v=5NJypJ55Qoo"  mp3_normal="" />
+		<item en_text="Unit 33- At the restaurant" local_text="Bài 33- Tại nhà hàng" mp3_slow="http://www.youtube.com/watch?v=ekvCVwJ-QGc"  mp3_normal="" />
+		<item en_text="Unit 34- Making a toast" local_text="Bài 34- Làm một bánh mì nướng" mp3_slow="http://www.youtube.com/watch?v=iVZqhRSsamE"  mp3_normal="" />
+		<item en_text="Unit 35- At the travel agent" local_text="Bài 35- Tại đại lý du lịch" mp3_slow="http://www.youtube.com/watch?v=-QWJFkFnmw8"  mp3_normal="" />
+		<item en_text="Unit 36- At the airport" local_text="Bài 36- Tại sân bay" mp3_slow="http://www.youtube.com/watch?v=aHGTxFRdGPI"  mp3_normal="" />
+		<item en_text="Unit 37- Asking for assistance" local_text="Bài 37- Yêu cầu hỗ trợ" mp3_slow="http://www.youtube.com/watch?v=DkHjU2jZDbk"  mp3_normal="" />
+		<item en_text="Unit 38- At the hotel" local_text="Bài 38- Tại khách sạn" mp3_slow="http://www.youtube.com/watch?v=vSk6yRHVGiU"  mp3_normal="" />
+		<item en_text="Unit 39- At the restaurant" local_text="Bài 39- Tại nhà hàng" mp3_slow="http://www.youtube.com/watch?v=OyEIWYYCyfU"  mp3_normal="" />
+		<item en_text="Unit 40- Using different kind of service" local_text="Bài 40- Sử dụng loại dịch vụ khác nhau" mp3_slow="http://www.youtube.com/watch?v=IlvJKFiVp7E"  mp3_normal="" />
+		<item en_text="Unit 41- Concierge" local_text="Bài 41- Hướng dẫn khách" mp3_slow="http://www.youtube.com/watch?v=3heuimDuDUk"  mp3_normal="" />
+		<item en_text="Unit 42- Sight seeing" local_text="Bài 42- Sight seeing" mp3_slow="http://www.youtube.com/watch?v=gxiQ68xi4xQ"  mp3_normal="" />
+		<item en_text="Unit 43- Stopping a passerby" local_text="Bài 43- Dừng một người qua đường" mp3_slow="http://www.youtube.com/watch?v=QrqzOme4FGI"  mp3_normal="" />
+		<item en_text="Unit 44- Introduction" local_text="Bài 44- Giới thiệu" mp3_slow="http://www.youtube.com/watch?v=fPWdEcwO1is"  mp3_normal="" />
+		<item en_text="Unit 45- Job applicants - Introduce yourself" local_text="Bài 45- Đi xin việc, giới thiệu bản thân" mp3_slow="http://www.youtube.com/watch?v=PvpVQVoMAPw"  mp3_normal="" />
+		<item en_text="Unit 46- Academic level" local_text="Bài 46- Trình độ học vấn" mp3_slow="http://www.youtube.com/watch?v=kNZjuMrAkC0"  mp3_normal="" />
+		<item en_text="Unit 47- Previous job experience" local_text="Bài 47- Kinh nghiệm làm việc trước" mp3_slow="http://www.youtube.com/watch?v=-09fN-LwXTU"  mp3_normal="" />
+		<item en_text="Unit 48- Special Skills" local_text="Bài 48- Kỹ năng đặc biệt" mp3_slow="http://www.youtube.com/watch?v=X3pjKqn9_18"  mp3_normal="" />
+		<item en_text="Unit 49- The ideal job" local_text="Bài 49- Các công việc lý tưởng" mp3_slow="http://www.youtube.com/watch?v=fALdlR3TWxM"  mp3_normal="" />
+		<item en_text="Unit 50- Your strengths" local_text="Bài 50- Điểm mạnh của bạn" mp3_slow="http://www.youtube.com/watch?v=4zbJUntrQfg"  mp3_normal="" />
+		<item en_text="Unit 51- Hobbies of yours" local_text="Bài 51- Sở thích cá nhân ngoài công việc" mp3_slow="http://www.youtube.com/watch?v=13z-ZHuB_fE"  mp3_normal="" />
+		<item en_text="Unit 52- Reasons for leaving a previous job" local_text="Bài 52- Lý do để rời khỏi một công việc" mp3_slow="http://www.youtube.com/watch?v=ORaKRspnv1I"  mp3_normal="" />
+		<item en_text="Unit 53- Solving work pressure" local_text="Bài 53- Giải quyết áp lực công việc" mp3_slow="http://www.youtube.com/watch?v=xoIpmuKHo44"  mp3_normal="" />
+		<item en_text="Unit 54- Go on bussiness" local_text="Bài 54- Đi công tác" mp3_slow="http://www.youtube.com/watch?v=WPfDOYgNTqg"  mp3_normal="" />
+		<item en_text="Unit 55- Why do you want this job" local_text="Bài 55- Tại sao bạn muốn công việc này" mp3_slow="http://www.youtube.com/watch?v=N0pY8fr6qnk"  mp3_normal="" />
+		<item en_text="Unit 56- Do you have any questions" local_text="Bài 56- Bạn có bất cứ câu hỏi" mp3_slow="http://www.youtube.com/watch?v=TDmuLDIkyVo"  mp3_normal="" />
+		<item en_text="Unit 57- Getting a job offer" local_text="Bài 57- Tạo một lời mời làm việc" mp3_slow="http://www.youtube.com/watch?v=i9Gaz_QSZo8"  mp3_normal="" />
+		<item en_text="Unit 58- At the restaurant" local_text="Bài 58- Tại nhà hàng" mp3_slow="http://www.youtube.com/watch?v=mn8CEPbk8gY"  mp3_normal="" />
+		<item en_text="Unit 59- A new proposal" local_text="Bài 59- Một đề nghị mới" mp3_slow="http://www.youtube.com/watch?v=eLForYNGXs0"  mp3_normal="" />
+		<item en_text="Unit 60- Alternatives" local_text="Bài 60- Alternatives" mp3_slow="http://www.youtube.com/watch?v=Ky3qZ_MulXM"  mp3_normal="" />
+		<item en_text="Unit 61- What's on the agenda" local_text="Bài 61- Chương trình nghị sự" mp3_slow="http://www.youtube.com/watch?v=7ePqCv1K57I"  mp3_normal="" />
+		<item en_text="Unit 62- Making a query" local_text="Bài 62- Làm một truy vấn" mp3_slow="http://www.youtube.com/watch?v=_NiRhoKiGtU"  mp3_normal="" />
+		<item en_text="Unit 63- Getting help" local_text="Bài 63- Nhờ giúp đỡ" mp3_slow="http://www.youtube.com/watch?v=mb-Yq3SyA7I"  mp3_normal="" />
+		<item en_text="Unit 64- Making an appointment" local_text="Bài 64- Tạo một cuộc hẹn" mp3_slow="http://www.youtube.com/watch?v=gLHYKf82F4Q"  mp3_normal="" />
+		<item en_text="Unit 65- have lunch" local_text="Bài 65- Ăn trưa" mp3_slow="http://www.youtube.com/watch?v=AVoVz1MaBfA"  mp3_normal="" />
+		<item en_text="Unit 66- Weighing up the options" local_text="Bài 66- Lập các tùy chọn" mp3_slow="http://www.youtube.com/watch?v=ynRIbSsK6Dw"  mp3_normal="" />
+		<item en_text="Unit 67- Check this before we go will you" local_text="Bài 67- Kiểm tra trước khi đến" mp3_slow="http://www.youtube.com/watch?v=JwGPlcbKC-M"  mp3_normal="" />
+		<item en_text="Unit 68- Meeting" local_text="Bài 68- Cuộc họp" mp3_slow="http://www.youtube.com/watch?v=Fbw_PDe5dMU"  mp3_normal="" />
+		<item en_text="Unit 69- Offering possibilities" local_text="Bài 69- Cung cấp khả năng" mp3_slow="http://www.youtube.com/watch?v=3EB9-V1NBi0"  mp3_normal="" />
+		<item en_text="Unit 70- Planning an important meeting" local_text="Bài 70- Lập kế hoạch cho cuộc họp" mp3_slow="http://www.youtube.com/watch?v=e4htbFQ48Ms"  mp3_normal="" />
+		<item en_text="Unit 71- Expressing a wish" local_text="Bài 71- Bày tỏ một mong muốn" mp3_slow="http://www.youtube.com/watch?v=PqAXvms62cM"  mp3_normal="" />
+		<item en_text="Unit 72- Trying to arrange the meeting" local_text="Bài 72- Cố gắng thu xếp cuộc họp" mp3_slow="http://www.youtube.com/watch?v=jAhrnCSKcM0"  mp3_normal="" />
+		<item en_text="Unit 73- How was the phone call" local_text="Bài 73- Gọi điện thoại" mp3_slow="http://www.youtube.com/watch?v=yH9fQzSxVYw"  mp3_normal="" />
+		<item en_text="Unit 74- My job description" local_text="Bài 74- Mô tả công việc của tôi" mp3_slow="http://www.youtube.com/watch?v=XtWwKsB6DqM"  mp3_normal="" />
+		<item en_text="Unit 75- How are things" local_text="Bài 75- Làm thế nào là những điều" mp3_slow="http://www.youtube.com/watch?v=c_FS4WeOq5g"  mp3_normal="" />
+		<item en_text="Unit 76- Postponing" local_text="Bài 76- Hoãn" mp3_slow="http://www.youtube.com/watch?v=u9Grp1X6NJo"  mp3_normal="" />
+		<item en_text="Unit 77- New horizons" local_text="Bài 77- Chân trời mới" mp3_slow="http://www.youtube.com/watch?v=TLKngBqfHyQ"  mp3_normal="" />
+		<item en_text="Unit 78- The interview" local_text="Bài 78- Cuộc phỏng vấn" mp3_slow="http://www.youtube.com/watch?v=myfOHEz3fEU"  mp3_normal="" />
+		<item en_text="Unit 79- My job description" local_text="Bài 79- Mô tả công việc của tôi" mp3_slow="http://www.youtube.com/watch?v=8psHWHejYCQ"  mp3_normal="" />
+		<item en_text="Unit 80- Arriving at my new office" local_text="Bài 80- Về đến văn phòng mới của tôi" mp3_slow="http://www.youtube.com/watch?v=QVBoJHT3JHA"  mp3_normal="" />
+		<item en_text="Unit 81- Talking with my new boss" local_text="Bài 81- Trao đổi với ông chủ mới của tôi" mp3_slow="http://www.youtube.com/watch?v=FpIFCM_8SQM"  mp3_normal="" />
+		<item en_text="Unit 82- The office tour" local_text="Bài 82- Các tour du lịch văn phòng" mp3_slow="http://www.youtube.com/watch?v=ZSk6xN79FKI"  mp3_normal="" />
+		<item en_text="Unit 83- Making an appointment" local_text="Bài 83- Làm một cuộc hẹn" mp3_slow="http://www.youtube.com/watch?v=-HHr1qF4gqU"  mp3_normal="" />
+		<item en_text="Unit 84- Answering the telephone and transferring a call" local_text="Bài 84- Trả lời điện thoại và chuyển cuộc gọi" mp3_slow="http://www.youtube.com/watch?v=6w1jwT-sK1c"  mp3_normal="" />
+		<item en_text="Unit 85- Greeting a client" local_text="Bài 85- Chào mừng khách hàng" mp3_slow="http://www.youtube.com/watch?v=Vy13M4J_2Ww"  mp3_normal="" />
+		<item en_text="Unit 86- In the meeting" local_text="Bài 86- Trong cuộc họp" mp3_slow="http://www.youtube.com/watch?v=wRSZF7S68tg"  mp3_normal="" />
+		<item en_text="Unit 87- Handling a complaint" local_text="Bài 87- Xử lý khiếu nại" mp3_slow="http://www.youtube.com/watch?v=nHVNGiyWOwE"  mp3_normal="" />
+		<item en_text="Unit 88- Joining a marketing meeting" local_text="Bài 88- Tham gia một cuộc họp tiếp thị" mp3_slow="http://www.youtube.com/watch?v=scliRH_UURM"  mp3_normal="" />
+		<item en_text="Unit 89- Performance appraisal" local_text="Bài 89- Thẩm định hiệu suất" mp3_slow="http://www.youtube.com/watch?v=7PMv1wO9YFI"  mp3_normal="" />
+		<item en_text="Unit 90- Planning a business trip" local_text="Bài 90- Kế hoạch cho chuyến đi kinh doanh" mp3_slow="http://www.youtube.com/watch?v=fRWBNhfjhAc"  mp3_normal="" />
+		<item en_text="Unit 91- Where do you come from" local_text="Bài 91- Đến từ đâu" mp3_slow="http://www.youtube.com/watch?v=prCtxZmpQUQ"  mp3_normal="" />
+		<item en_text="Unit 92- How was your vacation" local_text="Bài 92- Kỳ nghỉ của bạn thế nào" mp3_slow="http://www.youtube.com/watch?v=Z7KMJM1JN9I"  mp3_normal="" />
+		<item en_text="Unit 93- Do you remember me" local_text="Bài 93- Bạn có nhớ tôi" mp3_slow="http://www.youtube.com/watch?v=sB1IJpCH8ac"  mp3_normal="" />
+		<item en_text="Unit 94  I like your style » 101 bài tiếng Anh giao tiếp cơ bản » Tiếng Anh giao tiếp" local_text="Bài 94- Tôi thích phong cách của bạn" mp3_slow="http://www.youtube.com/watch?v=qAH5QcTPUE4"  mp3_normal="" />
+		<item en_text="Unit 95- Family" local_text="Bài 95- Gia đình" mp3_slow="http://www.youtube.com/watch?v=ZO9_l6DVq2M"  mp3_normal="" />
+		<item en_text="Unit 96- Returning a shirt to the store" local_text="Bài 96- Trở lại chiếc áo sơ mi cho các cửa hàng" mp3_slow="http://www.youtube.com/watch?v=8TUJBPXDRpM"  mp3_normal="" />
+		<item en_text="Unit 97- Do you have a pet" local_text="Bài 97- Bạn đã có một con vật cưng" mp3_slow="http://www.youtube.com/watch?v=uXa6VnJey4A"  mp3_normal="" />
+		<item en_text="Unit 98- Planning a trip" local_text="Bài 98- Kế hoạch cho một chuyến đi" mp3_slow="http://www.youtube.com/watch?v=yYu5j13g6jE"  mp3_normal="" />
+		<item en_text="Unit 99- What do you want to do after you graduate" local_text="Bài 99- Bạn muốn làm gì sau khi tốt nghiệp" mp3_slow="http://www.youtube.com/watch?v=YzhoqzfAftY"  mp3_normal="" />
+		<item en_text="Unit 100- Hobbies" local_text="Bai 100- Sở thích" mp3_slow="http://www.youtube.com/watch?v=gm6nr2uL9TQ"  mp3_normal="" />
+    </lesson>
+    <lesson id="2" en_text="Learning English With Mr Duncan" local_text="Học Tiếng Anh với DunCan">
+        <item  en_text="Introduction" local_text="Giới thiệu" mp3_slow="http://www.youtube.com/watch?feature=player_embedded&amp;v=ohJCdihPWqc"  mp3_normal="rtsp://v4.cache6.c.youtube.com/CjYLENy73wIaLQmnWk8odkISohMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Hello/Goodbye" local_text="Chào hỏi" mp3_slow="http://www.youtube.com/watch?v=6f_FtzgL9y4&amp;feature=relmfu"  mp3_normal="rtsp://v5.cache2.c.youtube.com/CjYLENy73wIaLQku9ws4t8X_6RMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Please/Thank You" local_text="Xin vui lòng/Cám ơn" mp3_slow="http://www.youtube.com/watch?v=K6m8_MRgfrs&amp;feature=relmfu"  mp3_normal="rtsp://v8.cache5.c.youtube.com/CjYLENy73wIaLQm7fmDE_LypKxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Response to 'Please'/'Thank You'" local_text="Đáp lại lời cảm ơn" mp3_slow="http://www.youtube.com/watch?v=pB9d0vm_t1Y&amp;feature=fvwrel"  mp3_normal="rtsp://v6.cache7.c.youtube.com/CjYLENy73wIaLQlWt7_50l0fpBMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Good/Bad" local_text="Tốt/Xấu và cách sử dụng" mp3_slow="http://www.youtube.com/watch?v=v-elMi_t4Hc&amp;feature=relmfu"  mp3_normal="rtsp://v4.cache4.c.youtube.com/CjYLENy73wIaLQl34O0vMqXnvxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Happy/Sad" local_text="Hạnh phúc/buồn" mp3_slow="http://www.youtube.com/watch?v=gwHIql9oql0&amp;list=PLF467B6C12B713A03&amp;index=6&amp;feature=plcp"  mp3_normal="rtsp://v4.cache8.c.youtube.com/CjYLENy73wIaLQldqmhfqsgBgxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Health/Exercise" local_text="Sức khỏe/Tập thể dục" mp3_slow="http://www.youtube.com/watch?v=7v4Vbhtx6TM&amp;list=PLF467B6C12B713A03&amp;index=7&amp;feature=plcp"  mp3_normal="rtsp://v8.cache2.c.youtube.com/CjYLENy73wIaLQkz6XEbbhX-7hMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Stress/Worry" local_text="Căng thẳng/Lo lắng" mp3_slow="http://www.youtube.com/watch?v=-sZOc-jB2cw&amp;list=PLF467B6C12B713A03&amp;index=8&amp;feature=plcp"  mp3_normal="rtsp://v4.cache3.c.youtube.com/CjYLENy73wIaLQnM2cHoc07G-hMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="F A M E" local_text="Danh tiếng" mp3_slow="http://www.youtube.com/watch?v=YXyH6_coLSs&amp;list=PLF467B6C12B713A03&amp;index=9&amp;feature=plcp"  mp3_normal="rtsp://v7.cache2.c.youtube.com/CjYLENy73wIaLQkrLSj364d8YRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Saying Sorry" local_text="Nói lời xin lỗi" mp3_slow="http://www.youtube.com/watch?v=u_BtrCuSOeE&amp;list=PLF467B6C12B713A03&amp;index=10&amp;feature=plcp"  mp3_normal="rtsp://v5.cache3.c.youtube.com/CjYLENy73wIaLQnhOZIrrG3wuxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Irony and Coincidence" local_text="Sự mỉa mai/Sự trùng hợp" mp3_slow="http://www.youtube.com/watch?v=_roCWpvbhbg&amp;list=PLF467B6C12B713A03&amp;index=1&amp;feature=plcp"  mp3_normal="rtsp://v5.cache4.c.youtube.com/CjYLENy73wIaLQm4hdubWgK6_hMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="All about you!" local_text="Những điều về bạn!" mp3_slow="http://www.youtube.com/watch?v=ijV_XvdQqo0&amp;list=PLF467B6C12B713A03&amp;index=2&amp;feature=plcp"  mp3_normal="rtsp://v6.cache1.c.youtube.com/CjYLENy73wIaLQmNqlD3Xn81ihMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Grammar!" local_text="Ngữ pháp! " mp3_slow="http://www.youtube.com/watch?v=OKq32VETOkc&amp;list=PLF467B6C12B713A03&amp;index=3&amp;feature=plcp"  mp3_normal="rtsp://v7.cache8.c.youtube.com/CjYLENy73wIaLQlHOhNR2beqOBMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Body Language" local_text="Ngôn ngữ cơ thể" mp3_slow="http://www.youtube.com/watch?v=FAB9RrC9x54&amp;list=PLF467B6C12B713A03&amp;index=4&amp;feature=plcp"  mp3_normal="rtsp://v4.cache8.c.youtube.com/CjYLENy73wIaLQmex72wRn0AFBMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="SLANG" local_text="Từ lóng" mp3_slow="http://www.youtube.com/watch?v=CjvN6FTtB60&amp;list=PLF467B6C12B713A03&amp;index=5&amp;feature=plcp"  mp3_normal="rtsp://v7.cache4.c.youtube.com/CjYLENy73wIaLQmtB-1U6M07ChMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Technology" local_text="Công nghệ" mp3_slow="http://www.youtube.com/watch?v=QQKbUX4Cfe0&amp;list=PLF467B6C12B713A03&amp;index=6&amp;feature=plcp"  mp3_normal="rtsp://v7.cache3.c.youtube.com/CjYLENy73wIaLQntfQJ-UZsCQRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Time" local_text="Thời gian" mp3_slow="http://www.youtube.com/watch?v=EdmSTcehRZM&amp;list=PLF467B6C12B713A03&amp;index=7&amp;feature=plcp "  mp3_normal="rtsp://v2.cache3.c.youtube.com/CjYLENy73wIaLQmTRaHHTZLZERMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Small Talk" local_text="Cách nói xã giao" mp3_slow="http://www.youtube.com/watch?v=Ght_qKdF2PY&amp;list=PLF467B6C12B713A03&amp;index=8&amp;feature=plcp"  mp3_normal="rtsp://v4.cache8.c.youtube.com/CjYLENy73wIaLQn22EWnqH8bGhMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="RULES !!" local_text="Quy tắc, luật lệ" mp3_slow="http://www.youtube.com/watch?v=aUwJbMKdeZM&amp;list=PLF467B6C12B713A03&amp;index=9&amp;feature=plcp"  mp3_normal="rtsp://v7.cache7.c.youtube.com/CjYLENy73wIaLQmTeZ3CbAlMaRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="More Slang" local_text="Từ lóng (tiếp theo)" mp3_slow="http://www.youtube.com/watch?v=4kxxi9P7iW0&amp;list=PLF467B6C12B713A03&amp;index=10&amp;feature=plcp"  mp3_normal="rtsp://v8.cache4.c.youtube.com/CjYLENy73wIaLQltifvTi3FM4hMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+    </lesson>
+    <lesson id="3" en_text="Learn English with Steve Ford" local_text="Học Tiếng Anh với Steve Ford">
+        <item en_text="Lesson 1-Idioms" local_text="Idioms" mp3_slow="http://www.youtube.com/watch?v=HTCl92hHwvU&amp;list=PLDAE43288ACF0FC8F&amp;index=5&amp;feature=plpp_video"  mp3_normal="rtsp://v3.cache6.c.youtube.com/CjYLENy73wIaLQn1wkdo96UwHRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 2-Mouth idioms" local_text="Mouth idioms" mp3_slow="http://www.youtube.com/watch?v=Yd4Gtmy8e8s&amp;feature=plcp"  mp3_normal="rtsp://v6.cache3.c.youtube.com/CjYLENy73wIaLQnLe7xstgbeYRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 3-Grammar" local_text="Grammar" mp3_slow="http://www.youtube.com/watch?v=vcV15SX9kt0&amp;feature=relmfu"  mp3_normal="rtsp://v6.cache8.c.youtube.com/CjYLENy73wIaLQndkv0l5XXFvRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 4-Tongue Idioms-Phrasal Verbs" local_text="Tongue Idioms-Phrasal Verbs" mp3_slow="http://www.youtube.com/watch?v=0OKTl0ad8Tk&amp;feature=fvwrel"  mp3_normal="rtsp://v7.cache2.c.youtube.com/CjYLENy73wIaLQk58Z1Gl5Pi0BMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 5-Grammar" local_text="Grammar" mp3_slow="http://www.youtube.com/watch?v=um_bRgJwRl8&amp;feature=fvwrel"  mp3_normal="rtsp://v4.cache6.c.youtube.com/CjYLENy73wIaLQlfRnACRttvuhMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 6-Advanced English Grammar Lesson" local_text=" Advanced English Grammar Lesson" mp3_slow="http://www.youtube.com/watch?v=0xDBeSLseMQ&amp;list=PLDAE43288ACF0FC8F&amp;index=10&amp;feature=plpp_video"  mp3_normal="rtsp://v8.cache3.c.youtube.com/CjYLENy73wIaLQnEeOwiecEQ0xMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 7-Advanced English Grammar Lesson" local_text="Advanced English Grammar Lesson" mp3_slow="http://www.youtube.com/watch?v=BX6uvig0lII&amp;list=PLDAE43288ACF0FC8F&amp;index=11&amp;feature=plpp_video"  mp3_normal="rtsp://v5.cache6.c.youtube.com/CjYLENy73wIaLQmClDQovq5-BRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Lesson 8-Advanced Grammar - Vocabulary" local_text="Advanced Grammar - Vocabulary" mp3_slow="http://www.youtube.com/watch?v=ZvWyv6oTKWE&amp;list=PLDAE43288ACF0FC8F&amp;index=12&amp;feature=plpp_video"  mp3_normal="rtsp://v4.cache6.c.youtube.com/CjYLENy73wIaLQlhKROqv7L1ZhMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Learning English TV9 - Snow" local_text="Snow" mp3_slow="http://www.youtube.com/watch?v=ZPON92EnFFw&amp;list=PLDAE43288ACF0FC8F&amp;index=13&amp;feature=plpp_video"  mp3_normal="rtsp://v1.cache1.c.youtube.com/CjYLENy73wIaLQlcFCdh943zZBMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Parallel 1-Serena - The Woman in the Mirror" local_text="Parallel 1-Serena - The Woman in the Mirror" mp3_slow="http://www.youtube.com/watch?v=PB5xWuv57J0&amp;list=PLDAE43288ACF0FC8F&amp;index=14&amp;feature=plpp_video"  mp3_normal="rtsp://v5.cache4.c.youtube.com/CjYLENy73wIaLQmd7PnrWnEePBMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Parallel 1-Vocabulary" local_text="Parallel 1-Vocabulary" mp3_slow="http://www.youtube.com/watch?v=reXIS5prhdI&amp;list=PLDAE43288ACF0FC8F&amp;index=16&amp;feature=plpp_video"  mp3_normal="rtsp://v7.cache2.c.youtube.com/CjYLENy73wIaLQnShWuaS8jlrRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Upper-Intermediate - Lesson #1 - Grammar" local_text="Upper-Intermediate - Lesson #1 - Grammar" mp3_slow="http://www.youtube.com/watch?v=3QTcmEtebeo&amp;list=PLDAE43288ACF0FC8F&amp;index=17&amp;feature=plpp_video"  mp3_normal="rtsp://v6.cache5.c.youtube.com/CjYLENy73wIaLQnqbV5LmNwE3RMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Intermediate-Lesson # 1 – Grammar" local_text="Intermediate-Lesson # 1 – Grammar" mp3_slow="http://www.youtube.com/watch?v=JVuNCITBq7k&amp;list=PLDAE43288ACF0FC8F&amp;index=18&amp;feature=plpp_video"  mp3_normal="rtsp://v5.cache4.c.youtube.com/CjYLENy73wIaLQm5q8GECI1bJRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Pre-intermediate-Lesson 1 - Grammar" local_text="Pre-intermediate-Lesson 1 - Grammar" mp3_slow="http://www.youtube.com/watch?v=Npez57FZ_b4&amp;list=PLDAE43288ACF0FC8F&amp;index=19&amp;feature=plpp_video"  mp3_normal="rtsp://v7.cache4.c.youtube.com/CjYLENy73wIaLQm-_Vmx57OXNhMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Basic-Lesson # 1-Alphabet - Grammar" local_text="Basic-Lesson # 1-Alphabet - Grammar" mp3_slow="http://www.youtube.com/watch?v=XVJOBEmiJUk&amp;list=PLDAE43288ACF0FC8F&amp;index=20&amp;feature=plpp_video"  mp3_normal="rtsp://v3.cache2.c.youtube.com/CjYLENy73wIaLQlJJaJJBE5SXRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Basic-Articles - Parallel 1" local_text="Basic-Articles - Parallel 1" mp3_slow="http://www.youtube.com/watch?v=NytAHLuN_WM&amp;list=PLDAE43288ACF0FC8F&amp;index=21&amp;feature=plpp_video"  mp3_normal="rtsp://v2.cache7.c.youtube.com/CjYLENy73wIaLQlj_Y27HEArNxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Basic-Lesson 3 - Grammar" local_text="Basic-Lesson 3 - Grammar" mp3_slow="http://www.youtube.com/watch?v=vcV15SX9kt0&amp;list=PLDAE43288ACF0FC8F&amp;index=22&amp;feature=plpp_video"  mp3_normal="rtsp://v6.cache8.c.youtube.com/CjYLENy73wIaLQndkv0l5XXFvRMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Steve in Brazil Part 1 - Run Phrasal Verbs" local_text="Steve in Brazil Part 1 - Run Phrasal Verbs" mp3_slow="http://www.youtube.com/watch?v=s1bw_manHJw&amp;list=PLDAE43288ACF0FC8F&amp;index=23&amp;feature=plpp_video"  mp3_normal="rtsp://v2.cache6.c.youtube.com/CjYLENy73wIaLQmcHKdm_vBWsxMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Steve in Paris Part 2 - Get Phrasal Verbs" local_text="Steve in Paris Part 2 - Get Phrasal Verbs" mp3_slow="http://www.youtube.com/watch?v=0Qzd7zNt-qA&amp;list=PLDAE43288ACF0FC8F&amp;index=25&amp;feature=plpp_video"  mp3_normal="rtsp://v2.cache3.c.youtube.com/CjYLENy73wIaLQmg-m0z790M0RMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+        <item en_text="Steve in Paris Part 3 - Get Phrasal Verbs" local_text="Steve in Paris Part 3 - Get Phrasal Verbs" mp3_slow="http://www.youtube.com/watch?v=E7kftdmgvBY&amp;list=PLDAE43288ACF0FC8F&amp;index=24&amp;feature=plpp_video"  mp3_normal="rtsp://v2.cache3.c.youtube.com/CjYLENy73wIaLQkWvKDZtR-5ExMYDSANFEIJbXYtZ29vZ2xlSARSBXdhdGNoYK_Y76WWh6zlUAw=/0/0/0/video.3gp "  />
+    </lesson>
+</root>

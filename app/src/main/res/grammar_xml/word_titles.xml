@@ -1,0 +1,21 @@
+   <catalogs>
+      <catalog id="1" local_title="Những thành ngữ thông dụng" en_title="Common expressions"/>
+      <catalog id="2" local_title="Chào hỏi" en_title="Greetings"/>
+      <catalog id="3" local_title="Du lịch, phương hướng" en_title="Travel, directions"/>
+      <catalog id="4" local_title="Con số và tiền bạc" en_title="Numbers and money"/>
+      <catalog id="5" local_title="Địa điểm" en_title="Location"/>
+      <catalog id="6" local_title="Điện thoại/internet/thư" en_title="Phone/internet/mail"/>
+      <catalog id="7" local_title="Thời gian và ngày tháng" en_title="Time and dates"/>
+      <catalog id="8" local_title="Chỗ ăn ở" en_title="Accommodations"/>
+      <catalog id="9" local_title="Ăn" en_title="Dining"/>
+      <catalog id="10" local_title="Kết bạn" en_title="Making friends"/>
+      <catalog id="11" local_title="Giải Trí" en_title="Entertainment"/>
+      <catalog id="12" local_title="Mua sắm" en_title="Shopping"/>
+      <catalog id="13" local_title="Khó khăn giao tiếp" en_title="Communication difficulties"/>
+      <catalog id="14" local_title="Trường hợp khẩn cấp và sức khỏe" en_title="Emergency and health"/>
+      <catalog id="15" local_title="Từ vựng và thành ngữ văn hóa" en_title="Cultural expressions/terms"/>
+      <catalog id="16" local_title="Những câu hỏi thông thường" en_title="General questions"/>
+      <catalog id="17" local_title="Việc làm" en_title="Work"/>
+      <catalog id="18" local_title="Thời tiết" en_title="Weather"/>
+    </catalogs>
+    

@@ -1,0 +1,972 @@
+<root local_title="1500 Từ Thông Dụng Nhất" en_title="1500 Common Words">
+    <word id="1">
+		<item local_text="thực sCự" en_text="actually " mp3_normal="actually.mp3" />
+	    <item local_text="lạ2i, một lần nữa" en_text="again " mp3_normal="again.mp3" />
+	    <item local_text="$hầu như" en_text="almost " mp3_normal="almost.mp3" />
+	    <item local_text="$rồi" en_text="already " mp3_normal="already.mp3" />
+	    <item local_text="$được" en_text="alright " mp3_normal="alright.mp3" />
+	    <item local_text="cũn3g" en_text="also " mp3_normal="also.mp3" />
+	    <item local_text="luô3n luôn" en_text="always " mp3_normal="always.mp3" />
+	    <item local_text="$và" en_text="and " mp3_normal="and.mp3" />
+	    <item local_text="giậnA dữ" en_text="angry " mp3_normal="angry.mp3" />
+	    <item local_text="$thú vật" en_text="animal " mp3_normal="animal.mp3" />
+	    <item local_text="một.A..khác" en_text="another " mp3_normal="another.mp3" />
+	    <item local_text="b1ất cứ cái gì" en_text="anything " mp3_normal="anything.mp3" />
+	    <item local_text="$là" en_text="are " mp3_normal="are.mp3" />
+	    <item local_text="$tại" en_text="at " mp3_normal="at.mp3" />
+	    <item local_text="$dở" en_text="bad " mp3_normal="bad.mp3" />
+	    <item local_text="một cácah tệ" en_text="badly " mp3_normal="badly.mp3" />
+	    <item local_text="$bởi vì" en_text="because " mp3_normal="because.mp3" />
+	    <item local_text="n1gười bắt đầu" en_text="beginner " mp3_normal="beginner.mp3" />
+	    <item local_text="bên cBạnh" en_text="beside " mp3_normal="beside.mp3" />
+	    <item local_text="tốt nhấat" en_text="best " mp3_normal="best.mp3" />
+	    <item local_text="$tốt hơn" en_text="better " mp3_normal="better.mp3" />
+	    <item local_text="$lớn" en_text="big " mp3_normal="big.mp3" />
+	    <item local_text="chi3m" en_text="bird " mp3_normal="bird.mp3" />
+	    <item local_text="$đen" en_text="black " mp3_normal="black.mp3" />
+	    <item local_text="xanh Bdương" en_text="blue " mp3_normal="blue.mp3" />
+	    <item local_text="sác3h" en_text="book " mp3_normal="book.mp3" />
+	    <item local_text="cả 3hai" en_text="both " mp3_normal="both.mp3" />
+	    <item local_text="$nâu" en_text="brown " mp3_normal="brown.mp3" />
+	    <item local_text="nh2ưng" en_text="but " mp3_normal="but.mp3" />
+	    <item local_text="một cách cẩn 2thận" en_text="carefully " mp3_normal="carefully.mp3" />
+	    <item local_text="$mèo" en_text="cat " mp3_normal="cat.mp3" />
+	    <item local_text="dĩ nhiCên" en_text="certainly " mp3_normal="certainly.mp3" />
+	    <item local_text="cơ 3hội" en_text="chance " mp3_normal="chance.mp3" />
+	    <item local_text="la2u chùi" en_text="clean " mp3_normal="clean.mp3" />
+	    <item local_text="c1hung" en_text="common " mp3_normal="common.mp3" />
+	    <item local_text="đầy3 đủ" en_text="complete " mp3_normal="complete.mp3" />
+	    <item local_text="$đúng" en_text="correct " mp3_normal="correct.mp3" />
+	    <item local_text="$có thể" en_text="could " mp3_normal="could.mp3" />
+	    <item local_text="$bò cái" en_text="cow " mp3_normal="cow.mp3" />
+	    <item local_text="pho3ng tục" en_text="custom " mp3_normal="custom.mp3" />
+	    <item local_text="ngu3y hiểm" en_text="dangerous " mp3_normal="dangerous.mp3" />
+	    <item local_text="dứt khCoát" en_text="definitely " mp3_normal="definitely.mp3" />
+	    <item local_text="$đã làm" en_text="did " mp3_normal="did.mp3" />
+	    <item local_text="kh2ác" en_text="different " mp3_normal="different.mp3" />
+	    <item local_text="bẩn,A dơ" en_text="dirty " mp3_normal="dirty.mp3" />
+	    <item local_text="$quấy rối" en_text="disturb " mp3_normal="disturb.mp3" />
+	    <item local_text="đã 3làm" en_text="done " mp3_normal="done.mp3" />
+	    <item local_text="$cửa" en_text="door " mp3_normal="door.mp3" />
+	    <item local_text="$mơ" en_text="dream " mp3_normal="dream.mp3" />
+	    <item local_text="$vịt" en_text="duck " mp3_normal="duck.mp3" />
+	    <item local_text="d1ễ" en_text="easy " mp3_normal="easy.mp3" />
+	    <item local_text="(thuộc về) đ1iện" en_text="electric " mp3_normal="electric.mp3" />
+	    <item local_text="$điện" en_text="electricity " mp3_normal="electricity.mp3" />
+	    <item local_text="$lúng túng" en_text="embarrassed " mp3_normal="embarrassed.mp3" />
+	    <item local_text="trống rỗbng" en_text="empty " mp3_normal="empty.mp3" />
+	    <item local_text="đ1ủ" en_text="enough " mp3_normal="enough.mp3" />
+	    <item local_text="$mỗi" en_text="every " mp3_normal="every.mp3" />
+	    <item local_text="mọi tBhứ" en_text="everything " mp3_normal="everything.mp3" />
+	    <item local_text="$thí dụ" en_text="example " mp3_normal="example.mp3" />
+	    <item local_text="xuất sCắc" en_text="excellent " mp3_normal="excellent.mp3" />
+	    <item local_text="lời xin lỗ#i" en_text="excuse " mp3_normal="excuse.mp3" />
+	    <item local_text="$cực kỳ" en_text="extremely " mp3_normal="extremely.mp3" />
+	    <item local_text="s1ự thật" en_text="fact " mp3_normal="fact.mp3" />
+	    <item local_text="$béo" en_text="fat " mp3_normal="fat.mp3" />
+	    <item local_text="$lá cờ" en_text="flag " mp3_normal="flag.mp3" />
+	    <item local_text="$phẳng" en_text="flat " mp3_normal="flat.mp3" />
+	    <item local_text="$cho" en_text="for " mp3_normal="_for.mp3" />
+	    <item local_text="đã tìm athấy" en_text="found " mp3_normal="found.mp3" />
+	    <item local_text="t1ừ" en_text="from " mp3_normal="from.mp3" />
+	    <item local_text="kh2ôi hài" en_text="funny " mp3_normal="funny.mp3" />
+	    <item local_text="tươ3ng lai" en_text="future " mp3_normal="future.mp3" />
+	    <item local_text="$rác" en_text="garbage " mp3_normal="garbage.mp3" />
+	    <item local_text="con3 dê" en_text="goat " mp3_normal="goat.mp3" />
+	    <item local_text="$tốt" en_text="good " mp3_normal="good.mp3" />
+	    <item local_text="$cỏ" en_text="grass " mp3_normal="grass.mp3" />
+	    <item local_text="xa2nh lục" en_text="green " mp3_normal="green.mp3" />
+	    <item local_text="$hạnh phúc" en_text="happy " mp3_normal="happy.mp3" />
+	    <item local_text="$có" en_text="has " mp3_normal="has.mp3" />
+	    <item local_text="nặ2ng" en_text="heavy " mp3_normal="heavy.mp3" />
+	    <item local_text="ch2ính cô ta" en_text="herself " mp3_normal="herself.mp3" />
+	    <item local_text="$cao" en_text="high " mp3_normal="high.mp3" />
+	    <item local_text="$chính anh ta" en_text="himself " mp3_normal="himself.mp3" />
+	    <item local_text="củ2a anh ta" en_text="his " mp3_normal="his.mp3" />
+	    <item local_text="lịc3h sử" en_text="history " mp3_normal="history.mp3" />
+	    <item local_text="l1ỗ" en_text="hole " mp3_normal="hole.mp3" />
+	    <item local_text="ngày nCghỉ" en_text="holiday " mp3_normal="holiday.mp3" />
+	    <item local_text="h1y vọng" en_text="hope " mp3_normal="hope.mp3" />
+	    <item local_text="ng2ựa" en_text="horse " mp3_normal="horse.mp3" />
+	    <item local_text="$tôi" en_text="I " mp3_normal="I.mp3" />
+	    <item local_text="ý1 tưởng" en_text="idea " mp3_normal="idea.mp3" />
+	    <item local_text="$nếu" en_text="if " mp3_normal="_if.mp3" />
+	    <item local_text="$quan trọng" en_text="important " mp3_normal="important.mp3" />
+	    <item local_text="không Cthể" en_text="impossible " mp3_normal="impossible.mp3" />
+	    <item local_text="gây ấn tưcợng" en_text="impressive " mp3_normal="impressive.mp3" />
+	    <item local_text="(đơn vị đo chiềAu dài) insơ" en_text="inch " mp3_normal="inch.mp3" />
+	    <item local_text="l1à" en_text="is " mp3_normal="is.mp3" />
+	    <item local_text="n1ó" en_text="it " mp3_normal="it.mp3" />
+	    <item local_text="chuyệBn đùa" en_text="joke " mp3_normal="joke.mp3" />
+	    <item local_text="$vua" en_text="king " mp3_normal="king.mp3" />
+	    <item local_text="$đèn" en_text="lamp " mp3_normal="lamp.mp3" />
+	    <item local_text="$luật" en_text="law " mp3_normal="law.mp3" />
+	    <item local_text="$đặt" en_text="lay " mp3_normal="lay.mp3" />
+	    <item local_text="lườ3i" en_text="lazy " mp3_normal="lazy.mp3" />
+	    <item local_text="đời sốnag" en_text="life " mp3_normal="life.mp3" />
+	    <item local_text="$đèn" en_text="light " mp3_normal="light.mp3" />
+	    <item local_text="án2h sáng" en_text="light " mp3_normal="light.mp3" />
+	    <item local_text="$nhỏ" en_text="little " mp3_normal="little.mp3" />
+	    <item local_text="í1t" en_text="little " mp3_normal="little.mp3" />
+	    <item local_text="$dài" en_text="long " mp3_normal="_long.mp3" />
+	    <item local_text="$thấp" en_text="low " mp3_normal="low.mp3" />
+	    <item local_text="m1ay mắn" en_text="luck " mp3_normal="luck.mp3" />
+	    <item local_text="$nam" en_text="male " mp3_normal="male.mp3" />
+	    <item local_text="di2êm" en_text="match " mp3_normal="match.mp3" />
+	    <item local_text="vấn3 đề" en_text="matter " mp3_normal="matter.mp3" />
+	    <item local_text="có 3lẽ" en_text="maybe " mp3_normal="maybe.mp3" />
+	    <item local_text="$tôi" en_text="me " mp3_normal="me.mp3" />
+	    <item local_text="ki2m loại" en_text="metal " mp3_normal="metal.mp3" />
+	    <item local_text="$có thể" en_text="might " mp3_normal="might.mp3" />
+	    <item local_text="c1ủa tôi" en_text="mine " mp3_normal="mine.mp3" />
+	    <item local_text="$hơn" en_text="more " mp3_normal="more.mp3" />
+	    <item local_text="phần lớan" en_text="most " mp3_normal="most.mp3" />
+	    <item local_text="$nhiều" en_text="much " mp3_normal="much.mp3" />
+	    <item local_text="phả3i" en_text="must " mp3_normal="must.mp3" />
+	    <item local_text="củ2a tôi" en_text="my " mp3_normal="my.mp3" />
+	    <item local_text="cần3 thiết" en_text="necessary " mp3_normal="necessary.mp3" />
+	    <item local_text="khôngB bao giờ" en_text="never " mp3_normal="never.mp3" />
+	    <item local_text="$mới" en_text="new " mp3_normal="_new.mp3" />
+	    <item local_text="nhật bCáo" en_text="newspaper " mp3_normal="newspaper.mp3" />
+	    <item local_text="dễ thưCơng" en_text="nice " mp3_normal="nice.mp3" />
+	    <item local_text="khônAg" en_text="no " mp3_normal="no.mp3" />
+	    <item local_text="ồn 3ào" en_text="noisy " mp3_normal="noisy.mp3" />
+	    <item local_text="bình thườn#g" en_text="normal " mp3_normal="normal.mp3" />
+	    <item local_text="kh2ông" en_text="not " mp3_normal="not.mp3" />
+	    <item local_text="g1hi chú" en_text="note " mp3_normal="note.mp3" />
+	    <item local_text="v1ở" en_text="notebook " mp3_normal="notebook.mp3" />
+	    <item local_text="$không cái gì" en_text="nothing " mp3_normal="nothing.mp3" />
+	    <item local_text="$mùi" en_text="odor " mp3_normal="odor.mp3" />
+	    <item local_text="$của" en_text="of " mp3_normal="of.mp3" />
+	    <item local_text="$dầu" en_text="oil " mp3_normal="oil.mp3" />
+	    <item local_text="đ1ược" en_text="ok " mp3_normal="ok.mp3" />
+	    <item local_text="$già" en_text="old " mp3_normal="old.mp3" />
+	    <item local_text="$chỉ" en_text="only " mp3_normal="only.mp3" />
+	    <item local_text="$màu cam" en_text="orange " mp3_normal="orange.mp3" />
+	    <item local_text="thô3ng thường" en_text="ordinary " mp3_normal="ordinary.mp3" />
+	    <item local_text="nguyêBn thủy" en_text="original " mp3_normal="original.mp3" />
+	    <item local_text="kh2ác" en_text="other " mp3_normal="other.mp3" />
+	    <item local_text="của chúng tô1i" en_text="our " mp3_normal="our.mp3" />
+	    <item local_text="củ2a chúng tôi" en_text="ours " mp3_normal="ours.mp3" />
+	    <item local_text="$chính chúng tôi" en_text="ourselves " mp3_normal="ourselves.mp3" />
+	    <item local_text="gi2ấy" en_text="paper " mp3_normal="paper.mp3" />
+	    <item local_text="phầ3n" en_text="part " mp3_normal="part.mp3" />
+	    <item local_text="$mẫu" en_text="pattern " mp3_normal="pattern.mp3" />
+	    <item local_text="$bút chì" en_text="pencil " mp3_normal="pencil.mp3" />
+	    <item local_text="có lAẽ" en_text="perhaps " mp3_normal="perhaps.mp3" />
+	    <item local_text="n1gười" en_text="person " mp3_normal="person.mp3" />
+	    <item local_text="$ảnh" en_text="photograph " mp3_normal="photograph.mp3" />
+	    <item local_text="$nơi" en_text="place " mp3_normal="place.mp3" />
+	    <item local_text="$cây" en_text="plant " mp3_normal="plant.mp3" />
+	    <item local_text="dễ chịCu" en_text="pleasant " mp3_normal="pleasant.mp3" />
+	    <item local_text="đángA thương" en_text="poor " mp3_normal="poor.mp3" />
+	    <item local_text="có 3thể" en_text="possible " mp3_normal="possible.mp3" />
+	    <item local_text="có 3thể" en_text="possibly " mp3_normal="possibly.mp3" />
+	    <item local_text="$đẹp" en_text="pretty " mp3_normal="pretty.mp3" />
+	    <item local_text="có 3thể" en_text="probably " mp3_normal="probably.mp3" />
+	    <item local_text="nha3nh" en_text="quick " mp3_normal="quick.mp3" />
+	    <item local_text="nhanAh" en_text="quickly " mp3_normal="quickly.mp3" />
+	    <item local_text="yê2n lặng" en_text="quiet " mp3_normal="quiet.mp3" />
+	    <item local_text="$thực sự" en_text="really " mp3_normal="really.mp3" />
+	    <item local_text="$đỏ" en_text="red " mp3_normal="red.mp3" />
+	    <item local_text="đ1á" en_text="rock " mp3_normal="rock.mp3" />
+	    <item local_text="dây thCừng" en_text="rope " mp3_normal="rope.mp3" />
+	    <item local_text="tr2òn" en_text="round " mp3_normal="round.mp3" />
+	    <item local_text="luậ3t" en_text="rule " mp3_normal="rule.mp3" />
+	    <item local_text="$buồn" en_text="sad " mp3_normal="sad.mp3" />
+	    <item local_text="cũn3g như vậy" en_text="same " mp3_normal="same.mp3" />
+	    <item local_text="điểmA số" en_text="score " mp3_normal="score.mp3" />
+	    <item local_text="$câu" en_text="sentence " mp3_normal="sentence.mp3" />
+	    <item local_text="cô2 ta" en_text="she " mp3_normal="she.mp3" />
+	    <item local_text="ng2ắn" en_text="short " mp3_normal="_short.mp3" />
+	    <item local_text="$vai" en_text="shoulder " mp3_normal="shoulder.mp3" />
+	    <item local_text="đơn gBiản" en_text="simple " mp3_normal="simple.mp3" />
+	    <item local_text="thưaA ông" en_text="sir " mp3_normal="sir.mp3" />
+	    <item local_text="$váy" en_text="skirt " mp3_normal="skirt.mp3" />
+	    <item local_text="chậ3m" en_text="slow " mp3_normal="slow.mp3" />
+	    <item local_text="chậm Bhơn" en_text="slower " mp3_normal="slower.mp3" />
+	    <item local_text="c1hậm" en_text="slowly " mp3_normal="slowly.mp3" />
+	    <item local_text="$nhỏ" en_text="small " mp3_normal="small.mp3" />
+	    <item local_text="thông mibnh" en_text="smart " mp3_normal="smart.mp3" />
+	    <item local_text="$vài" en_text="some " mp3_normal="some.mp3" />
+	    <item local_text="$người nào đó" en_text="someone " mp3_normal="someone.mp3" />
+	    <item local_text="cái3 gì đó" en_text="something " mp3_normal="something.mp3" />
+	    <item local_text="ti2ếc" en_text="sorry " mp3_normal="sorry.mp3" />
+	    <item local_text="vừa Avừa" en_text="so-so " mp3_normal="so_so.mp3" />
+	    <item local_text="m1ạnh" en_text="strong " mp3_normal="strong.mp3" />
+	    <item local_text="$học sinh" en_text="student " mp3_normal="student.mp3" />
+	    <item local_text="$ngu" en_text="stupid " mp3_normal="stupid.mp3" />
+	    <item local_text="đuô3i" en_text="tail " mp3_normal="tail.mp3" />
+	    <item local_text="$cao" en_text="tall " mp3_normal="tall.mp3" />
+	    <item local_text="băn3g" en_text="tape " mp3_normal="tape.mp3" />
+	    <item local_text="b1ài thi" en_text="test " mp3_normal="test.mp3" />
+	    <item local_text="$hơn" en_text="than " mp3_normal="than.mp3" />
+	    <item local_text="đ1ó" en_text="that " mp3_normal="that.mp3" />
+	    <item local_text="$của họ" en_text="their " mp3_normal="their.mp3" />
+	    <item local_text="của3 họ" en_text="theirs " mp3_normal="theirs.mp3" />
+	    <item local_text="h1ọ" en_text="them " mp3_normal="them.mp3" />
+	    <item local_text="c1hính họ" en_text="themselves " mp3_normal="themselves.mp3" />
+	    <item local_text="r1ồi thì" en_text="then " mp3_normal="then.mp3" />
+	    <item local_text="nhữngB cái này" en_text="these " mp3_normal="these.mp3" />
+	    <item local_text="h1ọ" en_text="they " mp3_normal="they.mp3" />
+	    <item local_text="$dày" en_text="thick " mp3_normal="thick.mp3" />
+	    <item local_text="mỏn3g" en_text="thin " mp3_normal="thin.mp3" />
+	    <item local_text="đi2ều" en_text="thing " mp3_normal="thing.mp3" />
+	    <item local_text="c1ái này" en_text="this " mp3_normal="_this.mp3" />
+	    <item local_text="những Ccái đó" en_text="those " mp3_normal="those.mp3" />
+	    <item local_text="đã 3nghĩ" en_text="thought " mp3_normal="thought.mp3" />
+	    <item local_text="$nhỏ" en_text="tiny " mp3_normal="tiny.mp3" />
+	    <item local_text="đã nóBi với" en_text="told " mp3_normal="told.mp3" />
+	    <item local_text="đồ chBơi" en_text="toy " mp3_normal="toy.mp3" />
+	    <item local_text="$rác" en_text="trash " mp3_normal="trash.mp3" />
+	    <item local_text="$cây" en_text="tree " mp3_normal="tree.mp3" />
+	    <item local_text="tam3 giác" en_text="triangle " mp3_normal="triangle.mp3" />
+	    <item local_text="đún3g" en_text="true " mp3_normal="_TRUE.mp3" />
+	    <item local_text="$xấu" en_text="ugly " mp3_normal="ugly.mp3" />
+	    <item local_text="$chúng tôi" en_text="us " mp3_normal="us.mp3" />
+	    <item local_text="$hữu ích" en_text="useful " mp3_normal="useful.mp3" />
+	    <item local_text="$rất" en_text="very " mp3_normal="very.mp3" />
+	    <item local_text="$giọng nói" en_text="voice " mp3_normal="voice.mp3" />
+	    <item local_text="$nguyên âm" en_text="vowel " mp3_normal="vowel.mp3" />
+	    <item local_text="$tường" en_text="wall " mp3_normal="wall.mp3" />
+	    <item local_text="c1hiến tranh" en_text="war " mp3_normal="war.mp3" />
+	    <item local_text="$chúng tôi" en_text="we " mp3_normal="we.mp3" />
+	    <item local_text="$yếu" en_text="weak " mp3_normal="weak.mp3" />
+	    <item local_text="giỏ3i" en_text="well " mp3_normal="well.mp3" />
+	    <item local_text="bánhA xe" en_text="wheel " mp3_normal="wheel.mp3" />
+	    <item local_text="trắ3ng" en_text="white " mp3_normal="white.mp3" />
+	    <item local_text="$của ai" en_text="whose " mp3_normal="whose.mp3" />
+	    <item local_text="rộn3g" en_text="wide " mp3_normal="wide.mp3" />
+	    <item local_text="cửa3 sổ" en_text="window " mp3_normal="window.mp3" />
+	    <item local_text="$với" en_text="with " mp3_normal="with.mp3" />
+	    <item local_text="$không có" en_text="without " mp3_normal="without.mp3" />
+	    <item local_text="$phụ nữ" en_text="woman " mp3_normal="woman.mp3" />
+	    <item local_text="$tệ hơn" en_text="worse " mp3_normal="worse.mp3" />
+	    <item local_text="tệ nAhất" en_text="worst " mp3_normal="worst.mp3" />
+	    <item local_text="điều tCệ nhất" en_text="worst " mp3_normal="worst.mp3" />
+	    <item local_text="$sai" en_text="wrong " mp3_normal="wrong.mp3" />
+	    <item local_text="v1àng" en_text="yellow " mp3_normal="yellow.mp3" />
+	    <item local_text="$vâng" en_text="yes " mp3_normal="yes.mp3" />
+	    <item local_text="$chưa" en_text="yet " mp3_normal="yet.mp3" />
+	    <item local_text="$bạn" en_text="you " mp3_normal="you.mp3" />
+	    <item local_text="$trẻ" en_text="young " mp3_normal="young.mp3" />
+	    <item local_text="c1ủa bạn" en_text="your " mp3_normal="your.mp3" />
+	    <item local_text="của Abạn" en_text="yours " mp3_normal="yours.mp3" />
+	    <item local_text="$chính bạn" en_text="yourself " mp3_normal="yourself.mp3" />
+	    <item local_text="chính caác bạn" en_text="yourselves " mp3_normal="yourselves.mp3" />
+    </word>
+    <word id="2">
+	    <item local_text="xin chúc cmừng!" en_text="congratulations! " mp3_normal="congratulations.mp3" />
+	    <item local_text="$tạm biệt" en_text="goodbye " mp3_normal="goodbye.mp3" />
+	    <item local_text="ch2ào" en_text="hello " mp3_normal="hello.mp3" />
+	    <item local_text="$tên" en_text="name " mp3_normal="name.mp3" />
+	    <item local_text="làm3 ơn" en_text="please " mp3_normal="please.mp3" />
+	    <item local_text="gây ngạc nhiê2n" en_text="surprise " mp3_normal="surprise.mp3" />
+    </word>
+    <word id="3">
+	    <item local_text="$về" en_text="about " mp3_normal="about.mp3" />
+	    <item local_text="địa3 chỉ" en_text="address " mp3_normal="address.mp3" />
+	    <item local_text="máy baCy" en_text="airplane " mp3_normal="airplane.mp3" />
+	    <item local_text="phi Atrường" en_text="airport " mp3_normal="airport.mp3" />
+	    <item local_text="$Mỹ" en_text="America " mp3_normal="America.mp3" />
+	    <item local_text="đại3 lộ" en_text="avenue " mp3_normal="avenue.mp3" />
+	    <item local_text="$phòng tắm" en_text="bathroom " mp3_normal="bathroom.mp3" />
+	    <item local_text="bã2i biển" en_text="beach " mp3_normal="beach.mp3" />
+	    <item local_text="$xe đạp" en_text="bicycle " mp3_normal="bicycle.mp3" />
+	    <item local_text="thu3yền" en_text="boat " mp3_normal="boat.mp3" />
+	    <item local_text="Bos3ton" en_text="Boston " mp3_normal="Boston.mp3" />
+	    <item local_text="$cầu" en_text="bridge " mp3_normal="bridge.mp3" />
+	    <item local_text="tòa nhCà" en_text="building " mp3_normal="building.mp3" />
+	    <item local_text="xe buBýt" en_text="bus " mp3_normal="bus.mp3" />
+	    <item local_text="$bởi" en_text="by " mp3_normal="by.mp3" />
+	    <item local_text="Cal3ifornia" en_text="California " mp3_normal="California.mp3" />
+	    <item local_text="đã 3tới" en_text="came " mp3_normal="came.mp3" />
+	    <item local_text="$thủ đô" en_text="capital " mp3_normal="capital.mp3" />
+	    <item local_text="$xe hơi" en_text="car " mp3_normal="car.mp3" />
+	    <item local_text="Chi3cago" en_text="Chicago " mp3_normal="Chicago.mp3" />
+	    <item local_text="$nhà thờ" en_text="church " mp3_normal="church.mp3" />
+	    <item local_text="vòn3g tròn" en_text="circle " mp3_normal="circle.mp3" />
+	    <item local_text="thành Cphố" en_text="city " mp3_normal="city.mp3" />
+	    <item local_text="câu lBạc bộ" en_text="club " mp3_normal="club.mp3" />
+	    <item local_text="đại3 học" en_text="college " mp3_normal="college.mp3" />
+	    <item local_text="côn3g ty" en_text="company " mp3_normal="company.mp3" />
+	    <item local_text="lụ2c địa" en_text="continent " mp3_normal="continent.mp3" />
+	    <item local_text="$đất nước" en_text="country " mp3_normal="country.mp3" />
+	    <item local_text="$sâu" en_text="deep " mp3_normal="deep.mp3" />
+	    <item local_text="đôn3g" en_text="east " mp3_normal="east.mp3" />
+	    <item local_text="đạ2i sứ quán" en_text="embassy " mp3_normal="embassy.mp3" />
+	    <item local_text="lối vàCo" en_text="entrance " mp3_normal="entrance.mp3" />
+	    <item local_text="lối3 ra" en_text="exit " mp3_normal="exit.mp3" />
+	    <item local_text="nông tCrại" en_text="farm " mp3_normal="farm.mp3" />
+	    <item local_text="$cánh đồng" en_text="field " mp3_normal="field.mp3" />
+	    <item local_text="c1huyến bay" en_text="flight " mp3_normal="flight.mp3" />
+	    <item local_text="phíaA trước" en_text="forward " mp3_normal="forward.mp3" />
+	    <item local_text="v1ườn" en_text="garden " mp3_normal="garden.mp3" />
+	    <item local_text="$xăng" en_text="gas " mp3_normal="gas.mp3" />
+	    <item local_text="xa lAộ" en_text="highway " mp3_normal="highway.mp3" />
+	    <item local_text="$đồi" en_text="hill " mp3_normal="hill.mp3" />
+	    <item local_text="$nhà" en_text="home " mp3_normal="home.mp3" />
+	    <item local_text="$nhà" en_text="house " mp3_normal="house.mp3" />
+	    <item local_text="$hòn đảo" en_text="island " mp3_normal="island.mp3" />
+	    <item local_text="$bếp" en_text="kitchen " mp3_normal="kitchen.mp3" />
+	    <item local_text="h1ồ" en_text="lake " mp3_normal="lake.mp3" />
+	    <item local_text="đã ra đai" en_text="left " mp3_normal="left.mp3" />
+	    <item local_text="$thư viện" en_text="library " mp3_normal="library.mp3" />
+	    <item local_text="giấy pChép" en_text="license " mp3_normal="license.mp3" />
+	    <item local_text="đã 3mất" en_text="lost " mp3_normal="lost.mp3" />
+	    <item local_text="$bản đồ" en_text="map " mp3_normal="map.mp3" />
+	    <item local_text="g1iữa" en_text="middle " mp3_normal="middle.mp3" />
+	    <item local_text="xe 3gắn máy" en_text="motorcycle " mp3_normal="motorcycle.mp3" />
+	    <item local_text="$núi" en_text="mountain " mp3_normal="mountain.mp3" />
+	    <item local_text="bảo tàngb viện" en_text="museum " mp3_normal="museum.mp3" />
+	    <item local_text="thời gian ban2 đêm" en_text="nighttime " mp3_normal="nighttime.mp3" />
+	    <item local_text="$bắc" en_text="north " mp3_normal="north.mp3" />
+	    <item local_text="$đại dương" en_text="ocean " mp3_normal="ocean.mp3" />
+	    <item local_text="văn3 phòng" en_text="office " mp3_normal="office.mp3" />
+	    <item local_text="ngoài tarời" en_text="outdoors " mp3_normal="outdoors.mp3" />
+	    <item local_text="lối3 ra" en_text="outlet " mp3_normal="outlet.mp3" />
+	    <item local_text="công vCiên" en_text="park " mp3_normal="park.mp3" />
+	    <item local_text="thông haành" en_text="passport " mp3_normal="passport.mp3" />
+	    <item local_text="$nhà thuốc" en_text="pharmacy " mp3_normal="pharmacy.mp3" />
+	    <item local_text="cảnh Bsát" en_text="police " mp3_normal="police.mp3" />
+	    <item local_text="tỉn3h" en_text="province " mp3_normal="province.mp3" />
+	    <item local_text="đú2ng" en_text="right " mp3_normal="right.mp3" />
+	    <item local_text="sô2ng" en_text="river " mp3_normal="river.mp3" />
+	    <item local_text="con đưCờng" en_text="road " mp3_normal="road.mp3" />
+	    <item local_text="trư3ờng" en_text="school " mp3_normal="school.mp3" />
+	    <item local_text="chỗ ngồai" en_text="seat " mp3_normal="seat.mp3" />
+	    <item local_text="dấu hiệau" en_text="sign " mp3_normal="sign.mp3" />
+	    <item local_text="ký 3tên" en_text="sign " mp3_normal="sign.mp3" />
+	    <item local_text="$trời" en_text="sky " mp3_normal="sky.mp3" />
+	    <item local_text="$nam" en_text="south " mp3_normal="south.mp3" />
+	    <item local_text="bậc3 thang" en_text="stairs " mp3_normal="stairs.mp3" />
+	    <item local_text="$trạm" en_text="station " mp3_normal="station.mp3" />
+	    <item local_text="dừn3g" en_text="stop " mp3_normal="stop.mp3" />
+	    <item local_text="th2ẳng" en_text="straight " mp3_normal="straight.mp3" />
+	    <item local_text="đ1ường" en_text="street " mp3_normal="street.mp3" />
+	    <item local_text="xe điện ncgầm" en_text="subway " mp3_normal="subway.mp3" />
+	    <item local_text="tắc3 xi" en_text="taxi " mp3_normal="taxi.mp3" />
+	    <item local_text="v1é" en_text="ticket " mp3_normal="ticket.mp3" />
+	    <item local_text="làm Amệt mỏi" en_text="tire " mp3_normal="tire.mp3" />
+	    <item local_text="$du khách" en_text="tourist " mp3_normal="tourist.mp3" />
+	    <item local_text="thị3 xã" en_text="town " mp3_normal="town.mp3" />
+	    <item local_text="thị trấan" en_text="town " mp3_normal="town.mp3" />
+	    <item local_text="giaoA thông" en_text="traffic " mp3_normal="traffic.mp3" />
+	    <item local_text="$xe lửa" en_text="train " mp3_normal="train.mp3" />
+	    <item local_text="chuyếnC đi" en_text="trip " mp3_normal="trip.mp3" />
+	    <item local_text="$xe tải" en_text="truck " mp3_normal="truck.mp3" />
+	    <item local_text="đại hBọc" en_text="university " mp3_normal="university.mp3" />
+	    <item local_text="kỳ nghỉ bmát" en_text="vacations " mp3_normal="vacations.mp3" />
+	    <item local_text="$tây" en_text="west " mp3_normal="west.mp3" />
+	    <item local_text="th2ế giới" en_text="world " mp3_normal="world.mp3" />
+    </word>
+    <word id="4">
+	    <item local_text="" en_text="1 " mp3_normal="_1.mp3" />
+	    <item local_text="" en_text="10 " mp3_normal="_10.mp3" />
+	    <item local_text="" en_text="100 " mp3_normal="_100.mp3" />
+	    <item local_text="" en_text="1000 " mp3_normal="_1000.mp3" />
+	    <item local_text="" en_text="1000000 " mp3_normal="_1000000.mp3" />
+	    <item local_text="" en_text="101 " mp3_normal="_101.mp3" />
+	    <item local_text="" en_text="110 " mp3_normal="_110.mp3" />
+	    <item local_text="" en_text="12 " mp3_normal="_12.mp3" />
+	    <item local_text="" en_text="13 " mp3_normal="_13.mp3" />
+	    <item local_text="" en_text="14 " mp3_normal="_14.mp3" />
+	    <item local_text="" en_text="15 " mp3_normal="_15.mp3" />
+	    <item local_text="" en_text="16 " mp3_normal="_16.mp3" />
+	    <item local_text="" en_text="17 " mp3_normal="_17.mp3" />
+	    <item local_text="" en_text="18 " mp3_normal="_18.mp3" />
+	    <item local_text="" en_text="19 " mp3_normal="_19.mp3" />
+	    <item local_text="thứ Anhất" en_text="1st " mp3_normal="_1st.mp3" />
+	    <item local_text="" en_text="2 " mp3_normal="_2.mp3" />
+	    <item local_text="" en_text="20 " mp3_normal="_20.mp3" />
+	    <item local_text="" en_text="200 " mp3_normal="_200.mp3" />
+	    <item local_text="" en_text="21 " mp3_normal="_21.mp3" />
+	    <item local_text="" en_text="22 " mp3_normal="_22.mp3" />
+	    <item local_text="thứ nBhì" en_text="2nd " mp3_normal="_2nd.mp3" />
+	    <item local_text="" en_text="3 " mp3_normal="_3.mp3" />
+	    <item local_text="" en_text="30 " mp3_normal="_30.mp3" />
+	    <item local_text="$thứ ba" en_text="3rd " mp3_normal="_3rd.mp3" />
+	    <item local_text="" en_text="4 " mp3_normal="_4.mp3" />
+	    <item local_text="" en_text="40 " mp3_normal="_40.mp3" />
+	    <item local_text="$thứ tư" en_text="4th " mp3_normal="_4th.mp3" />
+	    <item local_text="" en_text="5 " mp3_normal="_5.mp3" />
+	    <item local_text="" en_text="50 " mp3_normal="_50.mp3" />
+	    <item local_text="" en_text="6 " mp3_normal="_6.mp3" />
+	    <item local_text="" en_text="60 " mp3_normal="_60.mp3" />
+	    <item local_text="" en_text="7 " mp3_normal="_7.mp3" />
+	    <item local_text="" en_text="70 " mp3_normal="_70.mp3" />
+	    <item local_text="" en_text="8 " mp3_normal="_8.mp3" />
+	    <item local_text="" en_text="80 " mp3_normal="_80.mp3" />
+	    <item local_text="" en_text="9 " mp3_normal="_9.mp3" />
+	    <item local_text="" en_text="90 " mp3_normal="_90.mp3" />
+	    <item local_text="chấ3p nhận" en_text="accept " mp3_normal="accept.mp3" />
+	    <item local_text="$tất cả" en_text="all " mp3_normal="all.mp3" />
+	    <item local_text="ngân hCàng" en_text="bank " mp3_normal="bank.mp3" />
+	    <item local_text="máy3 tính bỏ túi" en_text="calculator " mp3_normal="calculator.mp3" />
+	    <item local_text="tiền mặat" en_text="cash " mp3_normal="cash.mp3" />
+	    <item local_text="xăn3g ti mét" en_text="centimeters " mp3_normal="centimeters.mp3" />
+	    <item local_text="$xu" en_text="cents " mp3_normal="cents.mp3" />
+	    <item local_text="$rẻ" en_text="cheap " mp3_normal="cheap.mp3" />
+	    <item local_text="phi3ếu tính tiền" en_text="check " mp3_normal="check.mp3" />
+	    <item local_text="bác3 sĩ" en_text="doctor " mp3_normal="doctor.mp3" />
+	    <item local_text="đ1ô la" en_text="dollar " mp3_normal="dollar.mp3" />
+	    <item local_text="bảo hiCểm" en_text="insurance " mp3_normal="insurance.mp3" />
+	    <item local_text="k1í" en_text="kilo " mp3_normal="kilo.mp3" />
+	    <item local_text="cây3 số" en_text="kilometers " mp3_normal="kilometers.mp3" />
+	    <item local_text="cuối cCùng" en_text="last " mp3_normal="last.mp3" />
+	    <item local_text="ít 3hơn" en_text="less " mp3_normal="less.mp3" />
+	    <item local_text="$thắp sáng" en_text="light " mp3_normal="light.mp3" />
+	    <item local_text="$lít" en_text="liter " mp3_normal="liter.mp3" />
+	    <item local_text="$nhiều" en_text="lots " mp3_normal="lots.mp3" />
+	    <item local_text="$nhiều" en_text="many " mp3_normal="many.mp3" />
+	    <item local_text="$mét" en_text="meter " mp3_normal="meter.mp3" />
+	    <item local_text="$dặm" en_text="miles " mp3_normal="miles.mp3" />
+	    <item local_text="ti2ền" en_text="money " mp3_normal="money.mp3" />
+	    <item local_text="không ai, khôngA cái nào" en_text="none " mp3_normal="none.mp3" />
+	    <item local_text="m1ột lần" en_text="once " mp3_normal="once.mp3" />
+	    <item local_text="$mỗi" en_text="per " mp3_normal="per.mp3" />
+	    <item local_text="đồng Bbảng Anh" en_text="pound " mp3_normal="pound.mp3" />
+	    <item local_text="già3u" en_text="rich " mp3_normal="rich.mp3" />
+	    <item local_text="$thứ nhì" en_text="second " mp3_normal="second.mp3" />
+	    <item local_text="$trừ" en_text="subtract " mp3_normal="subtract.mp3" />
+	    <item local_text="$tổng cộng" en_text="total " mp3_normal="total.mp3" />
+	    <item local_text="hai Alần" en_text="twice " mp3_normal="twice.mp3" />
+	    <item local_text="số khônag" en_text="zero " mp3_normal="zero.mp3" />
+    </word>
+    <word id="5">
+        <item local_text="tr2ên" en_text="above " mp3_normal="above.mp3" />
+	    <item local_text="t1rở lại" en_text="back " mp3_normal="back.mp3" />
+	    <item local_text="phía Bsau" en_text="behind " mp3_normal="behind.mp3" />
+	    <item local_text="dư2ới" en_text="below " mp3_normal="below.mp3" />
+	    <item local_text="$giữa" en_text="between " mp3_normal="between.mp3" />
+	    <item local_text="tru3ng tâm" en_text="center " mp3_normal="center.mp3" />
+	    <item local_text="d1ưới lầu" en_text="downstairs " mp3_normal="downstairs.mp3" />
+	    <item local_text="$phố" en_text="downtown " mp3_normal="downtown.mp3" />
+	    <item local_text="phía trưbớc" en_text="front " mp3_normal="front.mp3" />
+	    <item local_text="$ở đây" en_text="here " mp3_normal="here.mp3" />
+	    <item local_text="bên3 trong" en_text="inside " mp3_normal="inside.mp3" />
+	    <item local_text="nhà3 tù" en_text="jail " mp3_normal="jail.mp3" />
+	    <item local_text="$gần" en_text="near " mp3_normal="near.mp3" />
+	    <item local_text="$gần đây" en_text="nearby " mp3_normal="nearby.mp3" />
+	    <item local_text="t1rên" en_text="on " mp3_normal="on.mp3" />
+	    <item local_text="đối3 diện" en_text="opposite " mp3_normal="opposite.mp3" />
+	    <item local_text="bên ngCoài" en_text="outside " mp3_normal="outside.mp3" />
+	    <item local_text="trê3n" en_text="over " mp3_normal="over.mp3" />
+	    <item local_text="ở 2đó" en_text="there " mp3_normal="there.mp3" />
+	    <item local_text="$đỉnh" en_text="top " mp3_normal="top.mp3" />
+	    <item local_text="dư2ới" en_text="under " mp3_normal="under.mp3" />
+	    <item local_text="$lên" en_text="up " mp3_normal="up.mp3" />
+	    <item local_text="trê3n lầu" en_text="upstairs " mp3_normal="upstairs.mp3" />
+	    <item local_text="$làng" en_text="village " mp3_normal="village.mp3" />
+    </word>
+    <word id="6">
+	    <item local_text="$gọi" en_text="call " mp3_normal="call.mp3" />
+	    <item local_text="$thẻ" en_text="card " mp3_normal="card.mp3" />
+	    <item local_text="máy vBi tính" en_text="computer " mp3_normal="computer.mp3" />
+	    <item local_text="$dây" en_text="cord " mp3_normal="cord.mp3" />
+	    <item local_text="$xóa" en_text="delete " mp3_normal="delete.mp3" />
+	    <item local_text="thư điệan tử" en_text="email " mp3_normal="email.mp3" />
+	    <item local_text="pho3ng bì" en_text="envelope " mp3_normal="envelope.mp3" />
+	    <item local_text="bản Aphắc" en_text="fax " mp3_normal="fax.mp3" />
+	    <item local_text="$thông tin" en_text="information " mp3_normal="information.mp3" />
+	    <item local_text="int3ernet" en_text="Internet " mp3_normal="Internet.mp3" />
+	    <item local_text="lá 3thư" en_text="letter " mp3_normal="letter.mp3" />
+	    <item local_text="t1hư tín" en_text="mail " mp3_normal="mail.mp3" />
+	    <item local_text="$gói" en_text="package " mp3_normal="_package.mp3" />
+	    <item local_text="$trang" en_text="page " mp3_normal="page.mp3" />
+	    <item local_text="$mật khẩu" en_text="password " mp3_normal="password.mp3" />
+	    <item local_text="bút mBực" en_text="pen " mp3_normal="pen.mp3" />
+	    <item local_text="điện thobại" en_text="phone " mp3_normal="phone.mp3" />
+	    <item local_text="$bưu thiếp" en_text="postcard " mp3_normal="postcard.mp3" />
+	    <item local_text="áo2 sơ mi" en_text="shirt " mp3_normal="shirt.mp3" />
+	    <item local_text="phầ3n mềm" en_text="software " mp3_normal="software.mp3" />
+	    <item local_text="$tem" en_text="stamp " mp3_normal="stamp.mp3" />
+	    <item local_text="đánh máay" en_text="type " mp3_normal="type.mp3" />
+	    <item local_text="trang Cweb" en_text="website " mp3_normal="website.mp3" />
+    </word>
+    <word id="7">
+	    <item local_text="$sau" en_text="after " mp3_normal="after.mp3" />
+	    <item local_text="$chiều" en_text="afternoon " mp3_normal="afternoon.mp3" />
+	    <item local_text="bất cứ lúc# nào" en_text="anytime " mp3_normal="anytime.mp3" />
+	    <item local_text="buổiA hẹn" en_text="appointment " mp3_normal="appointment.mp3" />
+	    <item local_text="$xấp xỉ" en_text="approximately " mp3_normal="approximately.mp3" />
+	    <item local_text="th2áng tư" en_text="April " mp3_normal="April.mp3" />
+	    <item local_text="thá3ng tám" en_text="August " mp3_normal="August.mp3" />
+	    <item local_text="t1rước" en_text="before " mp3_normal="before.mp3" />
+	    <item local_text="$ngày" en_text="day " mp3_normal="day.mp3" />
+	    <item local_text="tháng mười ha2i" en_text="December " mp3_normal="December.mp3" />
+	    <item local_text="tro3ng lúc" en_text="during " mp3_normal="during.mp3" />
+	    <item local_text="sớm3 hơn" en_text="earlier " mp3_normal="earlier.mp3" />
+	    <item local_text="$sớm" en_text="early " mp3_normal="early.mp3" />
+	    <item local_text="$buổi tối" en_text="evening " mp3_normal="evening.mp3" />
+	    <item local_text="mỗi3 ngày" en_text="everyday " mp3_normal="everyday.mp3" />
+	    <item local_text="$xa" en_text="far " mp3_normal="far.mp3" />
+	    <item local_text="$tháng hai" en_text="february " mp3_normal="february.mp3" />
+	    <item local_text="th2ời gian rảnh" en_text="free-time " mp3_normal="free_time.mp3" />
+	    <item local_text="$thứ sáu" en_text="friday " mp3_normal="friday.mp3" />
+	    <item local_text="giờ, Btiếng" en_text="hour " mp3_normal="hour.mp3" />
+	    <item local_text="$ngay lập tức" en_text="immediately " mp3_normal="immediately.mp3" />
+	    <item local_text="th2áng giêng" en_text="January " mp3_normal="January.mp3" />
+	    <item local_text="tháng Cbảy" en_text="July " mp3_normal="July.mp3" />
+	    <item local_text="tháng Csáu" en_text="June " mp3_normal="June.mp3" />
+	    <item local_text="muộ3n" en_text="late " mp3_normal="late.mp3" />
+	    <item local_text="$sau" en_text="later " mp3_normal="later.mp3" />
+	    <item local_text="th2áng ba" en_text="March " mp3_normal="March.mp3" />
+	    <item local_text="thá3ng năm" en_text="May " mp3_normal="May.mp3" />
+	    <item local_text="p1hút" en_text="minute " mp3_normal="minute.mp3" />
+	    <item local_text="$thứ hai" en_text="Monday " mp3_normal="Monday.mp3" />
+	    <item local_text="thá3ng" en_text="month " mp3_normal="month.mp3" />
+	    <item local_text="$sáng" en_text="morning " mp3_normal="morning.mp3" />
+	    <item local_text="k1ế tiếp" en_text="next " mp3_normal="next.mp3" />
+	    <item local_text="$đêm" en_text="night " mp3_normal="night.mp3" />
+	    <item local_text="tháng mười mộ2t" en_text="November " mp3_normal="November.mp3" />
+	    <item local_text="bây gBiờ" en_text="now " mp3_normal="now.mp3" />
+	    <item local_text="hiệnA tại" en_text="now " mp3_normal="now.mp3" />
+	    <item local_text="s1ố" en_text="number " mp3_normal="number.mp3" />
+	    <item local_text="thánAg mười" en_text="October " mp3_normal="October.mp3" />
+	    <item local_text="$thường" en_text="often " mp3_normal="often.mp3" />
+	    <item local_text="vị 3trí" en_text="position " mp3_normal="position.mp3" />
+	    <item local_text="tr2ước" en_text="previous " mp3_normal="previous.mp3" />
+	    <item local_text="thứ bảCy" en_text="Saturday " mp3_normal="Saturday.mp3" />
+	    <item local_text="$tháng chín" en_text="September " mp3_normal="September.mp3" />
+	    <item local_text="kể 3từ" en_text="since " mp3_normal="since.mp3" />
+	    <item local_text="một ngày cnào đó" en_text="someday " mp3_normal="someday.mp3" />
+	    <item local_text="thỉnh Cthoảng" en_text="sometimes " mp3_normal="sometimes.mp3" />
+	    <item local_text="$sớm" en_text="soon " mp3_normal="soon.mp3" />
+	    <item local_text="mùa xBuân" en_text="spring " mp3_normal="spring.mp3" />
+	    <item local_text="$vẫn" en_text="still " mp3_normal="still.mp3" />
+	    <item local_text="mùa3 hạ" en_text="summer " mp3_normal="summer.mp3" />
+	    <item local_text="chủ nBhật" en_text="Sunday " mp3_normal="Sunday.mp3" />
+	    <item local_text="thứ năCm" en_text="Thursday " mp3_normal="Thursday.mp3" />
+	    <item local_text="thời gCian" en_text="time " mp3_normal="time.mp3" />
+	    <item local_text="hôm Anay" en_text="today " mp3_normal="today.mp3" />
+	    <item local_text="ngà3y mai" en_text="tomorrow " mp3_normal="tomorrow.mp3" />
+	    <item local_text="tối3 nay" en_text="tonight " mp3_normal="tonight.mp3" />
+	    <item local_text="$thứ ba" en_text="Tuesday " mp3_normal="Tuesday.mp3" />
+	    <item local_text="cho Atới" en_text="until " mp3_normal="until.mp3" />
+	    <item local_text="$thứ tư" en_text="wednesday " mp3_normal="wednesday.mp3" />
+	    <item local_text="t1uần lễ" en_text="week " mp3_normal="week.mp3" />
+	    <item local_text="cuối tCuần" en_text="weekend " mp3_normal="weekend.mp3" />
+	    <item local_text="$năm" en_text="year " mp3_normal="year.mp3" />
+	    <item local_text="hô2m qua" en_text="yesterday " mp3_normal="yesterday.mp3" />
+    </word>
+    <word id="8">
+	    <item local_text="$căn hộ" en_text="apartment " mp3_normal="apartment.mp3" />
+	    <item local_text="$giường" en_text="bed " mp3_normal="bed.mp3" />
+	    <item local_text="phòng Cngủ" en_text="bedroom " mp3_normal="bedroom.mp3" />
+	    <item local_text="$đã đóng" en_text="closed " mp3_normal="closed.mp3" />
+	    <item local_text="tiện nghi, thoảiB mái" en_text="comfortable " mp3_normal="comfortable.mp3" />
+	    <item local_text="$thang máy" en_text="elevator " mp3_normal="elevator.mp3" />
+	    <item local_text="$đầy" en_text="full " mp3_normal="full.mp3" />
+	    <item local_text="$khách mời" en_text="guest " mp3_normal="guest.mp3" />
+	    <item local_text="phòng tập th1ể dục" en_text="gym " mp3_normal="gym.mp3" />
+	    <item local_text="$khách sạn" en_text="hotel " mp3_normal="hotel.mp3" />
+	    <item local_text="chì3a khóa" en_text="key " mp3_normal="key.mp3" />
+	    <item local_text="$những chìa khóa" en_text="keys " mp3_normal="keys.mp3" />
+	    <item local_text="rộ2ng" en_text="large " mp3_normal="large.mp3" />
+	    <item local_text="tiệm cho th$uê máy giặt" en_text="laundromat " mp3_normal="laundromat.mp3" />
+	    <item local_text="$da thuộc" en_text="leather " mp3_normal="leather.mp3" />
+	    <item local_text="hàn3h lý" en_text="luggage " mp3_normal="luggage.mp3" />
+	    <item local_text="không Chút thuốc" en_text="non-smoking " mp3_normal="non_smoking.mp3" />
+	    <item local_text="bị 3chiếm" en_text="occupied " mp3_normal="occupied.mp3" />
+	    <item local_text="$gối" en_text="pillow " mp3_normal="pillow.mp3" />
+	    <item local_text="sức Alực" en_text="power " mp3_normal="power.mp3" />
+	    <item local_text="phẩm cChất" en_text="quality " mp3_normal="quality.mp3" />
+	    <item local_text="dao Acạo" en_text="razor " mp3_normal="razor.mp3" />
+	    <item local_text="$phòng" en_text="room " mp3_normal="room.mp3" />
+	    <item local_text="$cát" en_text="sand " mp3_normal="sand.mp3" />
+	    <item local_text="$vài" en_text="several " mp3_normal="several.mp3" />
+	    <item local_text="yên lBặng" en_text="silent " mp3_normal="silent.mp3" />
+	    <item local_text="kh2ăn tắm" en_text="towel " mp3_normal="towel.mp3" />
+	    <item local_text="t1rống rỗng" en_text="vacant " mp3_normal="vacant.mp3" />
+	    <item local_text="rừ2ng" en_text="woods " mp3_normal="woods.mp3" />
+    </word>
+    <word id="9">
+	    <item local_text="$món khai vị" en_text="appetizers " mp3_normal="appetizers.mp3" />
+	    <item local_text="$táo" en_text="apple " mp3_normal="apple.mp3" />
+	    <item local_text="c1huối" en_text="banana " mp3_normal="banana.mp3" />
+	    <item local_text="quầy bán rượ1u" en_text="bar " mp3_normal="bar.mp3" />
+	    <item local_text="$đậu" en_text="bean " mp3_normal="bean.mp3" />
+	    <item local_text="t1hịt bò" en_text="beef " mp3_normal="beef.mp3" />
+	    <item local_text="$bia" en_text="beer " mp3_normal="beer.mp3" />
+	    <item local_text="h1óa đơn" en_text="bill " mp3_normal="bill.mp3" />
+	    <item local_text="c1hai" en_text="bottle " mp3_normal="bottle.mp3" />
+	    <item local_text="b1át, tô" en_text="bowl " mp3_normal="bowl.mp3" />
+	    <item local_text="bánhA mì" en_text="bread " mp3_normal="bread.mp3" />
+	    <item local_text="điểm tCâm" en_text="breakfast " mp3_normal="breakfast.mp3" />
+	    <item local_text="b1ơ" en_text="butter " mp3_normal="butter.mp3" />
+	    <item local_text="cải3 bắp" en_text="cabbage " mp3_normal="cabbage.mp3" />
+	    <item local_text="q1uán ăn" en_text="cafe " mp3_normal="cafe.mp3" />
+	    <item local_text="bánh nCgọt" en_text="cake " mp3_normal="cake.mp3" />
+	    <item local_text="$kẹo" en_text="candy " mp3_normal="candy.mp3" />
+	    <item local_text="$phó mát" en_text="cheese " mp3_normal="cheese.mp3" />
+	    <item local_text="$gà" en_text="chicken " mp3_normal="chicken.mp3" />
+	    <item local_text="sô cô Cla" en_text="chocolate " mp3_normal="chocolate.mp3" />
+	    <item local_text="cà 3phê" en_text="coffee " mp3_normal="coffee.mp3" />
+	    <item local_text="$thùng chứa" en_text="container " mp3_normal="container.mp3" />
+	    <item local_text="nấu3 ăn" en_text="cook " mp3_normal="cook.mp3" />
+	    <item local_text="ngô, bắap" en_text="corn " mp3_normal="corn.mp3" />
+	    <item local_text="$tách" en_text="cup " mp3_normal="cup.mp3" />
+	    <item local_text="ng2on" en_text="delicious " mp3_normal="delicious.mp3" />
+	    <item local_text="món trángc miệng" en_text="dessert " mp3_normal="dessert.mp3" />
+	    <item local_text="$bữa tối" en_text="dinner " mp3_normal="dinner.mp3" />
+	    <item local_text="tr2ứng" en_text="egg " mp3_normal="egg.mp3" />
+	    <item local_text="c1á" en_text="fish " mp3_normal="fish.mp3" />
+	    <item local_text="t1hức ăn" en_text="food " mp3_normal="food.mp3" />
+	    <item local_text="$nĩa" en_text="fork " mp3_normal="fork.mp3" />
+	    <item local_text="đã2 chiên" en_text="fried " mp3_normal="fried.mp3" />
+	    <item local_text="tr2ái cây" en_text="fruit " mp3_normal="fruit.mp3" />
+	    <item local_text="$cái ly" en_text="glass " mp3_normal="glass.mp3" />
+	    <item local_text="$mặt đất" en_text="ground " mp3_normal="ground.mp3" />
+	    <item local_text="thịt giăm bô1ng" en_text="ham " mp3_normal="ham.mp3" />
+	    <item local_text="thịtA băm viên" en_text="hamburger " mp3_normal="hamburger.mp3" />
+	    <item local_text="$dao" en_text="knife " mp3_normal="knife.mp3" />
+	    <item local_text="bữ2a trưa" en_text="lunch " mp3_normal="lunch.mp3" />
+	    <item local_text="thị3t" en_text="meat " mp3_normal="meat.mp3" />
+	    <item local_text="thực đơan" en_text="menu " mp3_normal="menu.mp3" />
+	    <item local_text="lò vi Cba" en_text="microwave " mp3_normal="microwave.mp3" />
+	    <item local_text="$sữa" en_text="milk " mp3_normal="milk.mp3" />
+	    <item local_text="$khăn ăn" en_text="napkin " mp3_normal="napkin.mp3" />
+	    <item local_text="$tự nhiên" en_text="natural " mp3_normal="natural.mp3" />
+	    <item local_text="$cam" en_text="orange " mp3_normal="orange.mp3" />
+	    <item local_text="$chảo" en_text="pan " mp3_normal="pan.mp3" />
+	    <item local_text="hạt tBiêu" en_text="pepper " mp3_normal="pepper.mp3" />
+	    <item local_text="miế3ng" en_text="piece " mp3_normal="piece.mp3" />
+	    <item local_text="$lợn" en_text="pig " mp3_normal="pig.mp3" />
+	    <item local_text="$đĩa" en_text="plate " mp3_normal="plate.mp3" />
+	    <item local_text="thịt lợan" en_text="pork " mp3_normal="pork.mp3" />
+	    <item local_text="biên nChận" en_text="receipt " mp3_normal="receipt.mp3" />
+	    <item local_text="tủ lAạnh" en_text="refrigerator " mp3_normal="refrigerator.mp3" />
+	    <item local_text="n1hà hàng" en_text="restaurant " mp3_normal="restaurant.mp3" />
+	    <item local_text="ra2u sống" en_text="salad " mp3_normal="salad.mp3" />
+	    <item local_text="muố3i" en_text="salt " mp3_normal="salt.mp3" />
+	    <item local_text="bánh xăng uýc2h" en_text="sandwich " mp3_normal="sandwich.mp3" />
+	    <item local_text="hải3 sản" en_text="seafood " mp3_normal="seafood.mp3" />
+	    <item local_text="món ăn nbhẹ" en_text="snack " mp3_normal="snack.mp3" />
+	    <item local_text="nước Bxô đa" en_text="soda " mp3_normal="soda.mp3" />
+	    <item local_text="$xúp" en_text="soup " mp3_normal="soup.mp3" />
+	    <item local_text="chu3a" en_text="sour " mp3_normal="sour.mp3" />
+	    <item local_text="$có gia vị" en_text="spicy " mp3_normal="spicy.mp3" />
+	    <item local_text="cá2i thìa" en_text="spoon " mp3_normal="spoon.mp3" />
+	    <item local_text="miếng thbịt" en_text="steak " mp3_normal="steak.mp3" />
+	    <item local_text="đườ3ng" en_text="sugar " mp3_normal="sugar.mp3" />
+	    <item local_text="ng2ọt" en_text="sweet " mp3_normal="sweet.mp3" />
+	    <item local_text="$bàn" en_text="table " mp3_normal="table.mp3" />
+	    <item local_text="$nếm" en_text="taste " mp3_normal="taste.mp3" />
+	    <item local_text="$trà" en_text="tea " mp3_normal="tea.mp3" />
+	    <item local_text="lờ2i khuyên" en_text="tip " mp3_normal="tip.mp3" />
+	    <item local_text="$cà chua" en_text="tomato " mp3_normal="tomato.mp3" />
+	    <item local_text="thực vCật" en_text="vegetable " mp3_normal="vegetable.mp3" />
+	    <item local_text="ngườAi phục vụ bàn" en_text="waiter " mp3_normal="waiter.mp3" />
+	    <item local_text="nữ phục vụ bà2n" en_text="waitress " mp3_normal="waitress.mp3" />
+	    <item local_text="nư2ớc" en_text="water " mp3_normal="water.mp3" />
+	    <item local_text="rượu nhao" en_text="wine " mp3_normal="wine.mp3" />
+    </word>
+    <word id="10">
+	    <item local_text="sau3 đó" en_text="afterwards " mp3_normal="afterwards.mp3" />
+	    <item local_text="mộ2t mình" en_text="alone " mp3_normal="alone.mp3" />
+	    <item local_text="ngư3ời Mỹ" en_text="American " mp3_normal="American.mp3" />
+	    <item local_text="dì,3 cô" en_text="aunt " mp3_normal="aunt.mp3" />
+	    <item local_text="$đẹp" en_text="beautiful " mp3_normal="beautiful.mp3" />
+	    <item local_text="$cậu con trai" en_text="boy " mp3_normal="boy.mp3" />
+	    <item local_text="bạn trCai" en_text="boyfriend " mp3_normal="boyfriend.mp3" />
+	    <item local_text="$anh, em trai" en_text="brother " mp3_normal="brother.mp3" />
+	    <item local_text="đứa Atrẻ" en_text="child " mp3_normal="child.mp3" />
+	    <item local_text="n1hững đứa trẻ" en_text="children " mp3_normal="children.mp3" />
+	    <item local_text="ngày Btháng" en_text="date " mp3_normal="date.mp3" />
+	    <item local_text="con gáCi" en_text="daughter " mp3_normal="daughter.mp3" />
+	    <item local_text="mọi3 người" en_text="everybody " mp3_normal="everybody.mp3" />
+	    <item local_text="c1huyên gia" en_text="expert " mp3_normal="expert.mp3" />
+	    <item local_text="gia đBình" en_text="family " mp3_normal="family.mp3" />
+	    <item local_text="$cha" en_text="father " mp3_normal="father.mp3" />
+	    <item local_text="người nước ngo3ài" en_text="foreigner " mp3_normal="foreigner.mp3" />
+	    <item local_text="$bạn" en_text="friend " mp3_normal="friend.mp3" />
+	    <item local_text="cô 3gái" en_text="girl " mp3_normal="girl.mp3" />
+	    <item local_text="bạn gBái" en_text="girlfriend " mp3_normal="girlfriend.mp3" />
+	    <item local_text="ô1ng nội" en_text="grandfather " mp3_normal="grandfather.mp3" />
+	    <item local_text="$bà nội" en_text="grandmother " mp3_normal="grandmother.mp3" />
+	    <item local_text="nh2óm" en_text="word " mp3_normal="word.mp3" />
+	    <item local_text="anh3 ta" en_text="he " mp3_normal="he.mp3" />
+	    <item local_text="chồnAg" en_text="husband " mp3_normal="husband.mp3" />
+	    <item local_text="đàn ôBng" en_text="man " mp3_normal="man.mp3" />
+	    <item local_text="$buổi họp" en_text="meeting " mp3_normal="meeting.mp3" />
+	    <item local_text="c1ô" en_text="Miss " mp3_normal="Miss.mp3" />
+	    <item local_text="$ông" en_text="Mister " mp3_normal="Mister.mp3" />
+	    <item local_text="m1ẹ" en_text="mother " mp3_normal="mother.mp3" />
+	    <item local_text="$bà" en_text="Mrs " mp3_normal="Mrs.mp3" />
+	    <item local_text="láng giaềng" en_text="neighbor " mp3_normal="neighbor.mp3" />
+	    <item local_text="$cha mẹ" en_text="parents " mp3_normal="parents.mp3" />
+	    <item local_text="bữ2a tiệc" en_text="party " mp3_normal="party.mp3" />
+	    <item local_text="n1gười" en_text="people " mp3_normal="people.mp3" />
+	    <item local_text="bí 3mật" en_text="secret " mp3_normal="secret.mp3" />
+	    <item local_text="nữ tuB sĩ" en_text="sister " mp3_normal="sister.mp3" />
+	    <item local_text="con Atrai" en_text="son " mp3_normal="son.mp3" />
+	    <item local_text="$cùng nhau" en_text="together " mp3_normal="together.mp3" />
+	    <item local_text="chưa có gia đì3nh" en_text="unmarried " mp3_normal="unmarried.mp3" />
+	    <item local_text="$thường xuyên" en_text="usually " mp3_normal="usually.mp3" />
+	    <item local_text="v1ợ" en_text="wife " mp3_normal="wife.mp3" />
+	    <item local_text="$những người phụ nữ" en_text="women " mp3_normal="women.mp3" />
+    </word>
+    <word id="11">
+	    <item local_text="hàn3h động" en_text="action " mp3_normal="action.mp3" />
+	    <item local_text="$diễn viên" en_text="actor " mp3_normal="actor.mp3" />
+	    <item local_text="ng2hệ thuật" en_text="art " mp3_normal="art.mp3" />
+	    <item local_text="$kênh" en_text="channel " mp3_normal="channel.mp3" />
+	    <item local_text="đá2m đông" en_text="crowd " mp3_normal="crowd.mp3" />
+	    <item local_text="nổi3 tiếng" en_text="famous " mp3_normal="famous.mp3" />
+	    <item local_text="trò chơai" en_text="game " mp3_normal="game.mp3" />
+	    <item local_text="môn3 đánh gôn" en_text="golf " mp3_normal="golf.mp3" />
+	    <item local_text="$đi bộ đường dài" en_text="hike " mp3_normal="hike.mp3" />
+	    <item local_text="to tiếng chơn" en_text="louder " mp3_normal="louder.mp3" />
+	    <item local_text="hiện Bđại" en_text="modern " mp3_normal="modern.mp3" />
+	    <item local_text="ph2im" en_text="movie " mp3_normal="movie.mp3" />
+	    <item local_text="nh2ạc" en_text="music " mp3_normal="music.mp3" />
+	    <item local_text="chí3nh tôi" en_text="myself " mp3_normal="myself.mp3" />
+	    <item local_text="ti2ếng ồn" en_text="noise " mp3_normal="noise.mp3" />
+	    <item local_text="$sơn" en_text="paint " mp3_normal="paint.mp3" />
+	    <item local_text="ra đAi ô" en_text="radio " mp3_normal="radio.mp3" />
+	    <item local_text="chỉ Acho xem" en_text="show " mp3_normal="show.mp3" />
+	    <item local_text="$bóng đá" en_text="soccer " mp3_normal="soccer.mp3" />
+	    <item local_text="b1ài hát" en_text="song " mp3_normal="song.mp3" />
+	    <item local_text="âm2 thanh" en_text="sound " mp3_normal="sound.mp3" />
+	    <item local_text="th2ể thao" en_text="sport " mp3_normal="sport.mp3" />
+	    <item local_text="quần Bvợt" en_text="tennis " mp3_normal="tennis.mp3" />
+	    <item local_text="ti vAi" en_text="TV " mp3_normal="TV.mp3" />
+    </word>
+    <word id="12">
+	    <item local_text="quảng Ccáo" en_text="advertisement " mp3_normal="advertisement.mp3" />
+	    <item local_text="ba2 lô" en_text="backpack " mp3_normal="backpack.mp3" />
+	    <item local_text="bao,A túi" en_text="bag " mp3_normal="bag.mp3" />
+	    <item local_text="trái bCanh" en_text="ball " mp3_normal="ball.mp3" />
+	    <item local_text="r1ổ" en_text="basket " mp3_normal="basket.mp3" />
+	    <item local_text="bóng Brổ" en_text="basketball " mp3_normal="basketball.mp3" />
+	    <item local_text="$pin" en_text="batteries " mp3_normal="batteries.mp3" />
+	    <item local_text="thắt lCưng" en_text="belt " mp3_normal="belt.mp3" />
+	    <item local_text="$áo cánh" en_text="blouse " mp3_normal="blouse.mp3" />
+	    <item local_text="$hộp" en_text="box " mp3_normal="box.mp3" />
+	    <item local_text="vòn3g tay" en_text="bracelet " mp3_normal="bracelet.mp3" />
+	    <item local_text="ch2ải" en_text="brush " mp3_normal="brush.mp3" />
+	    <item local_text="thù3ng, xô" en_text="bucket " mp3_normal="bucket.mp3" />
+	    <item local_text="$máy ảnh" en_text="camera " mp3_normal="camera.mp3" />
+	    <item local_text="$nến" en_text="candle " mp3_normal="candle.mp3" />
+	    <item local_text="t1hảm" en_text="carpet " mp3_normal="carpet.mp3" />
+	    <item local_text="cát xéCt" en_text="cassette " mp3_normal="cassette.mp3" />
+	    <item local_text="dĩa3 cd" en_text="cd " mp3_normal="cd.mp3" />
+	    <item local_text="$ghế" en_text="chair " mp3_normal="chair.mp3" />
+	    <item local_text="đồngA hồ" en_text="clock " mp3_normal="clock.mp3" />
+	    <item local_text="quầ3n áo" en_text="clothes " mp3_normal="clothes.mp3" />
+	    <item local_text="áo choCàng" en_text="coat " mp3_normal="coat.mp3" />
+	    <item local_text="lượ3c" en_text="comb " mp3_normal="comb.mp3" />
+	    <item local_text="b1ông" en_text="cotton " mp3_normal="cotton.mp3" />
+	    <item local_text="$trường kỷ" en_text="couch " mp3_normal="couch.mp3" />
+	    <item local_text="khách haàng" en_text="customer " mp3_normal="customer.mp3" />
+	    <item local_text="chất kChử mùi" en_text="deodorant " mp3_normal="deodorant.mp3" />
+	    <item local_text="sự giBảm giá" en_text="discount " mp3_normal="discount.mp3" />
+	    <item local_text="váy Ađầm" en_text="dress " mp3_normal="dress.mp3" />
+	    <item local_text="hoa taCi" en_text="earrings " mp3_normal="earrings.mp3" />
+	    <item local_text="$đắt" en_text="expensive " mp3_normal="expensive.mp3" />
+	    <item local_text="$hoa" en_text="flower " mp3_normal="flower.mp3" />
+	    <item local_text="cuố3i" en_text="foot " mp3_normal="foot.mp3" />
+	    <item local_text="rản3h" en_text="free " mp3_normal="free.mp3" />
+	    <item local_text="thùng Crác" en_text="garbage " mp3_normal="garbage.mp3" />
+	    <item local_text="m1ón quà" en_text="gift " mp3_normal="gift.mp3" />
+	    <item local_text="gă2ng tay" en_text="glove " mp3_normal="glove.mp3" />
+	    <item local_text="vàn3g" en_text="gold " mp3_normal="gold.mp3" />
+	    <item local_text="bả2o đảm" en_text="guarantee " mp3_normal="guarantee.mp3" />
+	    <item local_text="kẹ2o cao su" en_text="gum " mp3_normal="gum.mp3" />
+	    <item local_text="$mũ" en_text="hat " mp3_normal="hat.mp3" />
+	    <item local_text="ố1ng nghe" en_text="headphones " mp3_normal="headphones.mp3" />
+	    <item local_text="qu2ần gin" en_text="jeans " mp3_normal="jeans.mp3" />
+	    <item local_text="nướ3c thơm" en_text="lotion " mp3_normal="lotion.mp3" />
+	    <item local_text="tạp chCí" en_text="magazine " mp3_normal="magazine.mp3" />
+	    <item local_text="khu Amua sắm" en_text="mall " mp3_normal="mall.mp3" />
+	    <item local_text="$chợ" en_text="market " mp3_normal="market.mp3" />
+	    <item local_text="g1ương" en_text="mirror " mp3_normal="mirror.mp3" />
+	    <item local_text="$chuỗi hạt" en_text="necklace " mp3_normal="necklace.mp3" />
+	    <item local_text="qu2ần" en_text="pants " mp3_normal="pants.mp3" />
+	    <item local_text="$hiện tại" en_text="present " mp3_normal="present.mp3" />
+	    <item local_text="gi2á tiền" en_text="price " mp3_normal="price.mp3" />
+	    <item local_text="$ví" en_text="purse " mp3_normal="purse.mp3" />
+	    <item local_text="ngh3ỉ" en_text="rest " mp3_normal="rest.mp3" />
+	    <item local_text="nhẫ3n" en_text="ring " mp3_normal="ring.mp3" />
+	    <item local_text="khăn Bquàng cổ" en_text="scarf " mp3_normal="scarf.mp3" />
+	    <item local_text="thuốc gội đ$ầu" en_text="shampoo " mp3_normal="shampoo.mp3" />
+	    <item local_text="gi2ày" en_text="shoes " mp3_normal="shoes.mp3" />
+	    <item local_text="c1ỡ" en_text="size " mp3_normal="size.mp3" />
+	    <item local_text="xà phònag" en_text="soap " mp3_normal="soap.mp3" />
+	    <item local_text="$vớ" en_text="socks " mp3_normal="socks.mp3" />
+	    <item local_text="$đặc biệt" en_text="special " mp3_normal="special.mp3" />
+	    <item local_text="cử2a hàng" en_text="store " mp3_normal="store.mp3" />
+	    <item local_text="k1ính mát" en_text="sunglasses " mp3_normal="sunglasses.mp3" />
+	    <item local_text="siêuA thị" en_text="supermarket " mp3_normal="supermarket.mp3" />
+	    <item local_text="$áo len" en_text="sweater " mp3_normal="sweater.mp3" />
+	    <item local_text="$cột" en_text="tie " mp3_normal="tie.mp3" />
+	    <item local_text="giấy Blụa" en_text="tissue " mp3_normal="tissue.mp3" />
+	    <item local_text="ô,2 dù" en_text="umbrella " mp3_normal="umbrella.mp3" />
+	    <item local_text="quần áo blót" en_text="underwear " mp3_normal="underwear.mp3" />
+	    <item local_text="v1í" en_text="wallet " mp3_normal="wallet.mp3" />
+    </word>
+    <word id="13">
+	    <item local_text="chống Clại" en_text="against " mp3_normal="against.mp3" />
+	    <item local_text="$màu" en_text="color " mp3_normal="color.mp3" />
+	    <item local_text="phứcA tạp" en_text="complicated " mp3_normal="complicated.mp3" />
+	    <item local_text="từ điBển" en_text="dictionary " mp3_normal="dictionary.mp3" />
+	    <item local_text="$giả" en_text="false " mp3_normal="_FALSE.mp3" />
+	    <item local_text="trô3i chảy" en_text="fluent " mp3_normal="fluent.mp3" />
+	    <item local_text="$chặn ngang" en_text="interrupt " mp3_normal="interrupt.mp3" />
+	    <item local_text="ngô3n ngữ" en_text="language " mp3_normal="language.mp3" />
+	    <item local_text="mẫu3 tự" en_text="letter " mp3_normal="letter.mp3" />
+	    <item local_text="có nghĩaa" en_text="mean " mp3_normal="mean.mp3" />
+	    <item local_text="$lỗi" en_text="mistake " mp3_normal="mistake.mp3" />
+	    <item local_text="$vấn đề" en_text="problem " mp3_normal="problem.mp3" />
+	    <item local_text="$phát âm" en_text="pronunciation " mp3_normal="pronunciation.mp3" />
+	    <item local_text="$lạ" en_text="strange " mp3_normal="strange.mp3" />
+	    <item local_text="khủngB khiếp" en_text="terrible " mp3_normal="terrible.mp3" />
+    </word>
+    <word id="14">
+	    <item local_text="tai nạCn" en_text="accident " mp3_normal="accident.mp3" />
+	    <item local_text="$dị ứng" en_text="allergy " mp3_normal="allergy.mp3" />
+	    <item local_text="khá3ng sinh" en_text="antibiotic " mp3_normal="antibiotic.mp3" />
+	    <item local_text="cánhA tay" en_text="arm " mp3_normal="arm.mp3" />
+	    <item local_text="b1é" en_text="baby " mp3_normal="baby.mp3" />
+	    <item local_text="lưn3g" en_text="back " mp3_normal="back.mp3" />
+	    <item local_text="râu quCai nón" en_text="beard " mp3_normal="beard.mp3" />
+	    <item local_text="$máu" en_text="blood " mp3_normal="blood.mp3" />
+	    <item local_text="thân thaể" en_text="body " mp3_normal="body.mp3" />
+	    <item local_text="$óc" en_text="brain " mp3_normal="brain.mp3" />
+	    <item local_text="$đã làm vỡ" en_text="broke " mp3_normal="broke.mp3" />
+	    <item local_text="đã bịB vỡ" en_text="broken " mp3_normal="broken.mp3" />
+	    <item local_text="$ung thư" en_text="cancer " mp3_normal="cancer.mp3" />
+	    <item local_text="lạn3h" en_text="cold " mp3_normal="cold.mp3" />
+	    <item local_text="$ho" en_text="cough " mp3_normal="cough.mp3" />
+	    <item local_text="chế3t" en_text="dead " mp3_normal="dead.mp3" />
+	    <item local_text="$nha sĩ" en_text="dentist " mp3_normal="dentist.mp3" />
+	    <item local_text="$tai" en_text="ear " mp3_normal="ear.mp3" />
+	    <item local_text="$mắt" en_text="eye " mp3_normal="eye.mp3" />
+	    <item local_text="$mặt" en_text="face " mp3_normal="face.mp3" />
+	    <item local_text="g1iả mạo" en_text="fake " mp3_normal="fake.mp3" />
+	    <item local_text="$sốt" en_text="fever " mp3_normal="fever.mp3" />
+	    <item local_text="ngón Btay" en_text="finger " mp3_normal="finger.mp3" />
+	    <item local_text="$lửa" en_text="fire " mp3_normal="fire.mp3" />
+	    <item local_text="bàn châan" en_text="foot " mp3_normal="foot.mp3" />
+	    <item local_text="$súng" en_text="gun " mp3_normal="gun.mp3" />
+	    <item local_text="$tóc" en_text="hair " mp3_normal="hair.mp3" />
+	    <item local_text="lôn3g" en_text="hair " mp3_normal="hair.mp3" />
+	    <item local_text="b1àn tay" en_text="hand " mp3_normal="hand.mp3" />
+	    <item local_text="$đầu" en_text="head " mp3_normal="head.mp3" />
+	    <item local_text="nhứ3c đầu" en_text="headache " mp3_normal="headache.mp3" />
+	    <item local_text="$tim" en_text="heart " mp3_normal="heart.mp3" />
+	    <item local_text="$bệnh viện" en_text="hospital " mp3_normal="hospital.mp3" />
+	    <item local_text="làm Ađau" en_text="hurts " mp3_normal="hurts.mp3" />
+	    <item local_text="$chân" en_text="leg " mp3_normal="leg.mp3" />
+	    <item local_text="$dược phẩm" en_text="medicine " mp3_normal="medicine.mp3" />
+	    <item local_text="miệ3ng" en_text="mouth " mp3_normal="mouth.mp3" />
+	    <item local_text="c1ổ" en_text="neck " mp3_normal="neck.mp3" />
+	    <item local_text="$mũi" en_text="nose " mp3_normal="nose.mp3" />
+	    <item local_text="$đau" en_text="pain " mp3_normal="pain.mp3" />
+	    <item local_text="nghiAêm túc" en_text="serious " mp3_normal="serious.mp3" />
+	    <item local_text="$mưa rào" en_text="shower " mp3_normal="shower.mp3" />
+	    <item local_text="ố1m" en_text="sick " mp3_normal="sick.mp3" />
+	    <item local_text="d1a" en_text="skin " mp3_normal="skin.mp3" />
+	    <item local_text="$đau" en_text="sore " mp3_normal="sore.mp3" />
+	    <item local_text="$dạ dày" en_text="stomach " mp3_normal="stomach.mp3" />
+	    <item local_text="ră2ng" en_text="teeth " mp3_normal="teeth.mp3" />
+	    <item local_text="$cổ họng" en_text="throat " mp3_normal="throat.mp3" />
+	    <item local_text="ngó3n chân" en_text="toe " mp3_normal="toe.mp3" />
+	    <item local_text="phòng vệb sinh" en_text="toilet " mp3_normal="toilet.mp3" />
+	    <item local_text="bàn chải đánh rAăng" en_text="toothbrush " mp3_normal="toothbrush.mp3" />
+	    <item local_text="sinh tCố" en_text="vitamins " mp3_normal="vitamins.mp3" />
+    </word>
+    <word id="15">
+	    <item local_text="s1ợ" en_text="afraid " mp3_normal="afraid.mp3" />
+	    <item local_text="$sinh nhật" en_text="birthday " mp3_normal="birthday.mp3" />
+	    <item local_text="Bri3tian" en_text="Britian " mp3_normal="Britian.mp3" />
+	    <item local_text="Phật tCử" en_text="buddhist " mp3_normal="buddhist.mp3" />
+	    <item local_text="b1ận rộn" en_text="busy " mp3_normal="busy.mp3" />
+	    <item local_text="Nước Ca bNa Đa" en_text="Canada " mp3_normal="Canada.mp3" />
+	    <item local_text="$Trung Hoa" en_text="China " mp3_normal="China.mp3" />
+	    <item local_text="tín đồ Tbhiên Chúa giáo" en_text="Christian " mp3_normal="Christian.mp3" />
+	    <item local_text="$Giáng sinh" en_text="Christmas " mp3_normal="Christmas.mp3" />
+	    <item local_text="sa2y rượu" en_text="drunk " mp3_normal="drunk.mp3" />
+	    <item local_text="$Âu châu" en_text="Europe " mp3_normal="Europe.mp3" />
+	    <item local_text="nướcA ngoài" en_text="foreign " mp3_normal="foreign.mp3" />
+	    <item local_text="Nướ3c Pháp" en_text="France " mp3_normal="France.mp3" />
+	    <item local_text="$nước Đức" en_text="Germany " mp3_normal="Germany.mp3" />
+	    <item local_text="chính Cphủ" en_text="government " mp3_normal="government.mp3" />
+	    <item local_text="$di trú" en_text="immigration " mp3_normal="immigration.mp3" />
+	    <item local_text="$Do thái" en_text="Jewish " mp3_normal="Jewish.mp3" />
+	    <item local_text="$người Mễ" en_text="Mexican " mp3_normal="Mexican.mp3" />
+	    <item local_text="M1ễ" en_text="Mexico " mp3_normal="Mexico.mp3" />
+	    <item local_text="tín đồC Hồi giáo" en_text="Muslim " mp3_normal="Muslim.mp3" />
+	    <item local_text="$tổng thống" en_text="president " mp3_normal="president.mp3" />
+	    <item local_text="tôn3 giáo" en_text="Religion " mp3_normal="Religion.mp3" />
+	    <item local_text="nước BNga" en_text="Russia " mp3_normal="Russia.mp3" />
+	    <item local_text="người CNga" en_text="Russian " mp3_normal="Russian.mp3" />
+	    <item local_text="rau qBuả" en_text="vegetables " mp3_normal="vegetables.mp3" />
+	    <item local_text="$đám cưới" en_text="wedding " mp3_normal="wedding.mp3" />
+    </word>
+    <word id="16">
+	    <item local_text="bất3 cứ ai" en_text="anyone " mp3_normal="anyone.mp3" />
+	    <item local_text="thế nàoa?" en_text="how? " mp3_normal="how.mp3" />
+	    <item local_text="câu hỏCi" en_text="question " mp3_normal="question.mp3" />
+	    <item local_text="cái Agì?" en_text="What? " mp3_normal="What.mp3" />
+	    <item local_text="kh2i nào?" en_text="When? " mp3_normal="When.mp3" />
+	    <item local_text="ở đ3âu?" en_text="Where? " mp3_normal="Where.mp3" />
+	    <item local_text="cái nBào?" en_text="Which? " mp3_normal="Which.mp3" />
+	    <item local_text="n1gười nào?" en_text="Which? " mp3_normal="Which.mp3" />
+	    <item local_text="$ai?" en_text="Who? " mp3_normal="Who.mp3" />
+	    <item local_text="tại saoa?" en_text="Why? " mp3_normal="Why.mp3" />
+    </word>
+    <word id="17">
+	    <item local_text="$chủ" en_text="boss " mp3_normal="boss.mp3" />
+	    <item local_text="lớp Ahọc" en_text="class " mp3_normal="_class.mp3" />
+	    <item local_text="khóa Bhọc" en_text="course " mp3_normal="course.mp3" />
+	    <item local_text="đồng nghbiệp" en_text="co-worker " mp3_normal="co_worker.mp3" />
+	    <item local_text="đ1ộ" en_text="degree " mp3_normal="degree.mp3" />
+	    <item local_text="$khô" en_text="dry " mp3_normal="dry.mp3" />
+	    <item local_text="nỗ 3lực" en_text="effort " mp3_normal="effort.mp3" />
+	    <item local_text="bằ2ng" en_text="equal " mp3_normal="equal.mp3" />
+	    <item local_text="xưởnAg" en_text="factory " mp3_normal="factory.mp3" />
+	    <item local_text="bài tập về nh2à" en_text="homework " mp3_normal="homework.mp3" />
+	    <item local_text="việcA làm" en_text="job " mp3_normal="job.mp3" />
+	    <item local_text="$giám đốc" en_text="manager " mp3_normal="manager.mp3" />
+	    <item local_text="bắp tBhịt" en_text="muscle " mp3_normal="muscle.mp3" />
+	    <item local_text="$thời biểu" en_text="schedule " mp3_normal="schedule.mp3" />
+	    <item local_text="nhà khCoa học" en_text="scientist " mp3_normal="scientist.mp3" />
+	    <item local_text="kỹ nAăng" en_text="skill " mp3_normal="skill.mp3" />
+	    <item local_text="$cái dập ghim" en_text="stapler " mp3_normal="stapler.mp3" />
+	    <item local_text="$đội" en_text="team " mp3_normal="team.mp3" />
+	    <item local_text="d1ụng cụ" en_text="tool " mp3_normal="tool.mp3" />
+	    <item local_text="làm việac" en_text="work " mp3_normal="work.mp3" />
+	    <item local_text="nơi làCm việc" en_text="workplace " mp3_normal="workplace.mp3" />
+    </word>
+    <word id="18">
+	    <item local_text="khô3ng khí" en_text="air " mp3_normal="air.mp3" />
+	    <item local_text="xuấ3t hiện" en_text="appear " mp3_normal="appear.mp3" />
+	    <item local_text="có 3mây" en_text="cloudy " mp3_normal="cloudy.mp3" />
+	    <item local_text="lạn3h" en_text="cold " mp3_normal="cold.mp3" />
+	    <item local_text="$tối" en_text="dark " mp3_normal="dark.mp3" />
+	    <item local_text="$rơi" en_text="fall " mp3_normal="fall.mp3" />
+	    <item local_text="sươnAg mù" en_text="fog " mp3_normal="fog.mp3" />
+	    <item local_text="$xám" en_text="gray " mp3_normal="gray.mp3" />
+	    <item local_text="sức nónag" en_text="heat " mp3_normal="heat.mp3" />
+	    <item local_text="$nóng" en_text="hot " mp3_normal="hot.mp3" />
+	    <item local_text="nước Bđá" en_text="ice " mp3_normal="ice.mp3" />
+	    <item local_text="$luật sư" en_text="lawyer " mp3_normal="lawyer.mp3" />
+	    <item local_text="mặt trCăng" en_text="moon " mp3_normal="moon.mp3" />
+	    <item local_text="$mưa" en_text="rain " mp3_normal="rain.mp3" />
+	    <item local_text="c1ơn mưa" en_text="rain " mp3_normal="rain.mp3" />
+	    <item local_text="$mùa" en_text="season " mp3_normal="season.mp3" />
+	    <item local_text="$tuyết" en_text="snow " mp3_normal="snow.mp3" />
+	    <item local_text="ng2ôi sao" en_text="stars " mp3_normal="stars.mp3" />
+	    <item local_text="mặt Atrời" en_text="sun " mp3_normal="sun.mp3" />
+	    <item local_text="nắ2ng" en_text="sunny " mp3_normal="sunny.mp3" />
+	    <item local_text="nhiệAt độ" en_text="temperature " mp3_normal="temperature.mp3" />
+	    <item local_text="ấ1m" en_text="warm " mp3_normal="warm.mp3" />
+	    <item local_text="thời tCiết" en_text="weather " mp3_normal="weather.mp3" />
+	    <item local_text="$ướt" en_text="wet " mp3_normal="wet.mp3" />
+	    <item local_text="$gió" en_text="wind " mp3_normal="wind.mp3" />
+	    <item local_text="$có gió" en_text="windy " mp3_normal="windy.mp3" />
+	    <item local_text="mùa đBông" en_text="winter " mp3_normal="winter.mp3" />
+    </word>
+  </root>

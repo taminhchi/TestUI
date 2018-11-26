@@ -24,7 +24,6 @@ public class CustomerListAdapter extends ArrayAdapter {
     private final String[] infoArray;
 
     public CustomerListAdapter(Activity context, String[] nameArrayParam, String[] infoArrayParam, Integer[] imageIDArrayParam) {
-
         super(context, R.layout.list_row, nameArrayParam);
         this.context=context;
         this.imageIDarray = imageIDArrayParam;
